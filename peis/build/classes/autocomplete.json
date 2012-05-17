@@ -1,0 +1,4 @@
+[
+	{"name":"fee","show":["name","id"],"js":["id","name"], "hit":"-"},
+	{"name":"user","show":["name","id"],"js":["id","name"], "hit":"-"}
+]

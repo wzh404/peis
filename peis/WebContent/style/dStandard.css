@@ -1,0 +1,3997 @@
+
+/* Motif for Hybrid Skin */
+body.accountTab{
+    margin:0 10px;
+}
+body.accountTab .tabNavigation .tab .currentTab,
+body.accountTab #motifCurve,
+body.accountTab #motifCurve #mc_l,
+body.accountTab #motifCurve #mc_r{
+    background-color: #236FBD;
+}
+body.accountTab  .primaryPalette,
+.individualPalette .accountBlock .primaryPalette {
+    background-color: #236FBD;
+    border-color: #236FBD;
+}
+body.accountTab  .secondaryPalette,
+.individualPalette .accountBlock .secondaryPalette {
+    background-color: #236FBD;
+    border-color: #236FBD;
+}
+body.accountTab  .tertiaryPalette,
+.individualPalette .accountBlock .tertiaryPalette {
+    background-color: #8A9EBE;
+    border-color: #8A9EBE;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.accountTab .mComponent .cHeader,
+body.accountTab .genericTable,
+body.accountTab .bSubBlock,
+body.accountTab .bPageBlock{
+    border-top: 3px solid #236FBD;
+}
+
+/** Enhanced List **/
+body.accountTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #236FBD;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .accountBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .accountBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .accountBlock .secondaryPalette .pbHeader{
+    border-color: #236FBD;
+}
+
+.accountMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -2px;width:16px;
+	height:16px; }
+
+.accountTab .pageTitleIcon, .individualPalette .accountBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -950px;width:32px;
+	height:32px; }
+
+.bRelatedList .accountBlock .relatedListIcon, .allTabTab .accountBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -362px;width:24px;
+	height:24px; }
+
+.bRelatedList .accountBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .accountBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.allTabTab{
+    margin:0 10px;
+}
+body.allTabTab .tabNavigation .tab .currentTab,
+body.allTabTab #motifCurve,
+body.allTabTab #motifCurve #mc_l,
+body.allTabTab #motifCurve #mc_r{
+    background-color: #747E96;
+}
+body.allTabTab  .primaryPalette,
+.individualPalette .allTabBlock .primaryPalette {
+    background-color: #747E96;
+    border-color: #747E96;
+}
+body.allTabTab  .secondaryPalette,
+.individualPalette .allTabBlock .secondaryPalette {
+    background-color: #747E96;
+    border-color: #747E96;
+}
+body.allTabTab  .tertiaryPalette,
+.individualPalette .allTabBlock .tertiaryPalette {
+    background-color: #8E9DBE;
+    border-color: #8E9DBE;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.allTabTab .mComponent .cHeader,
+body.allTabTab .genericTable,
+body.allTabTab .bSubBlock,
+body.allTabTab .bPageBlock{
+    border-top: 3px solid #747E96;
+}
+
+/** Enhanced List **/
+body.allTabTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #747E96;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .allTabBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .allTabBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .allTabBlock .secondaryPalette .pbHeader{
+    border-color: #747E96;
+}
+
+/* Motif for Hybrid Skin */
+body.assetTab{
+    margin:0 10px;
+}
+body.assetTab .tabNavigation .tab .currentTab,
+body.assetTab #motifCurve,
+body.assetTab #motifCurve #mc_l,
+body.assetTab #motifCurve #mc_r{
+    background-color: #317992;
+}
+body.assetTab  .primaryPalette,
+.individualPalette .assetBlock .primaryPalette {
+    background-color: #317992;
+    border-color: #317992;
+}
+body.assetTab  .secondaryPalette,
+.individualPalette .assetBlock .secondaryPalette {
+    background-color: #317992;
+    border-color: #317992;
+}
+body.assetTab  .tertiaryPalette,
+.individualPalette .assetBlock .tertiaryPalette {
+    background-color: #4D91B3;
+    border-color: #4D91B3;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.assetTab .mComponent .cHeader,
+body.assetTab .genericTable,
+body.assetTab .bSubBlock,
+body.assetTab .bPageBlock{
+    border-top: 3px solid #317992;
+}
+
+/** Enhanced List **/
+body.assetTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #317992;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .assetBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .assetBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .assetBlock .secondaryPalette .pbHeader{
+    border-color: #317992;
+}
+
+.assetMru .mruIcon { background-image: url(/img/icon/products16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.assetTab .pageTitleIcon, .individualPalette .assetBlock .pageTitleIcon { background-image: url(/img/icon/products32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+/* Motif for Hybrid Skin */
+body.campaignTab{
+    margin:0 10px;
+}
+body.campaignTab .tabNavigation .tab .currentTab,
+body.campaignTab #motifCurve,
+body.campaignTab #motifCurve #mc_l,
+body.campaignTab #motifCurve #mc_r{
+    background-color: #CC9933;
+}
+body.campaignTab  .primaryPalette,
+.individualPalette .campaignBlock .primaryPalette {
+    background-color: #CC9933;
+    border-color: #CC9933;
+}
+body.campaignTab  .secondaryPalette,
+.individualPalette .campaignBlock .secondaryPalette {
+    background-color: #CC9933;
+    border-color: #CC9933;
+}
+body.campaignTab  .tertiaryPalette,
+.individualPalette .campaignBlock .tertiaryPalette {
+    background-color: #E3B14F;
+    border-color: #E3B14F;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.campaignTab .mComponent .cHeader,
+body.campaignTab .genericTable,
+body.campaignTab .bSubBlock,
+body.campaignTab .bPageBlock{
+    border-top: 3px solid #CC9933;
+}
+
+/** Enhanced List **/
+body.campaignTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #CC9933;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .campaignBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .campaignBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .campaignBlock .secondaryPalette .pbHeader{
+    border-color: #CC9933;
+}
+
+.campaignMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -42px;width:16px;
+	height:16px; }
+
+.campaignTab .pageTitleIcon, .individualPalette .campaignBlock .pageTitleIcon { background-image: url(/img/icon/campaigns32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .campaignBlock .relatedListIcon, .allTabTab .campaignBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -418px;width:24px;
+	height:24px; }
+
+.bRelatedList .campaignBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .campaignBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.campaignmemberTab{
+    margin:0 10px;
+}
+body.campaignmemberTab .tabNavigation .tab .currentTab,
+body.campaignmemberTab #motifCurve,
+body.campaignmemberTab #motifCurve #mc_l,
+body.campaignmemberTab #motifCurve #mc_r{
+    background-color: #CC9933;
+}
+body.campaignmemberTab  .primaryPalette,
+.individualPalette .campaignmemberBlock .primaryPalette {
+    background-color: #CC9933;
+    border-color: #CC9933;
+}
+body.campaignmemberTab  .secondaryPalette,
+.individualPalette .campaignmemberBlock .secondaryPalette {
+    background-color: #CC9933;
+    border-color: #CC9933;
+}
+body.campaignmemberTab  .tertiaryPalette,
+.individualPalette .campaignmemberBlock .tertiaryPalette {
+    background-color: #E3B14F;
+    border-color: #E3B14F;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.campaignmemberTab .mComponent .cHeader,
+body.campaignmemberTab .genericTable,
+body.campaignmemberTab .bSubBlock,
+body.campaignmemberTab .bPageBlock{
+    border-top: 3px solid #CC9933;
+}
+
+/** Enhanced List **/
+body.campaignmemberTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #CC9933;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .campaignmemberBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .campaignmemberBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .campaignmemberBlock .secondaryPalette .pbHeader{
+    border-color: #CC9933;
+}
+
+.campaignmemberMru .mruIcon { background-image: url(/img/icon/campaignmember16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.campaignmemberTab .pageTitleIcon, .individualPalette .campaignmemberBlock .pageTitleIcon { background-image: url(/img/icon/campaignmember32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .campaignmemberBlock .relatedListIcon, .allTabTab .campaignmemberBlock .relatedListIcon { background-image: url(/img/icon/campaignmember24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .campaignmemberBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .campaignmemberBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.caseTab{
+    margin:0 10px;
+}
+body.caseTab .tabNavigation .tab .currentTab,
+body.caseTab #motifCurve,
+body.caseTab #motifCurve #mc_l,
+body.caseTab #motifCurve #mc_r{
+    background-color: #B7A752;
+}
+body.caseTab  .primaryPalette,
+.individualPalette .caseBlock .primaryPalette {
+    background-color: #B7A752;
+    border-color: #B7A752;
+}
+body.caseTab  .secondaryPalette,
+.individualPalette .caseBlock .secondaryPalette {
+    background-color: #B7A752;
+    border-color: #B7A752;
+}
+body.caseTab  .tertiaryPalette,
+.individualPalette .caseBlock .tertiaryPalette {
+    background-color: #C0BE72;
+    border-color: #C0BE72;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.caseTab .mComponent .cHeader,
+body.caseTab .genericTable,
+body.caseTab .bSubBlock,
+body.caseTab .bPageBlock{
+    border-top: 3px solid #B7A752;
+}
+
+/** Enhanced List **/
+body.caseTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #B7A752;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .caseBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .caseBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .caseBlock .secondaryPalette .pbHeader{
+    border-color: #B7A752;
+}
+
+.caseMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -62px;width:16px;
+	height:16px; }
+
+.caseTab .pageTitleIcon, .individualPalette .caseBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -986px;width:32px;
+	height:32px; }
+
+.bRelatedList .caseBlock .relatedListIcon, .allTabTab .caseBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -446px;width:24px;
+	height:24px; }
+
+.bRelatedList .caseBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .caseBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.consoleTab{
+    margin:0 10px;
+}
+body.consoleTab .tabNavigation .tab .currentTab,
+body.consoleTab #motifCurve,
+body.consoleTab #motifCurve #mc_l,
+body.consoleTab #motifCurve #mc_r{
+    background-color: #555555;
+}
+body.consoleTab  .primaryPalette,
+.individualPalette .consoleBlock .primaryPalette {
+    background-color: #555555;
+    border-color: #555555;
+}
+body.consoleTab  .secondaryPalette,
+.individualPalette .consoleBlock .secondaryPalette {
+    background-color: #555555;
+    border-color: #555555;
+}
+body.consoleTab  .tertiaryPalette,
+.individualPalette .consoleBlock .tertiaryPalette {
+    background-color: #ADB380;
+    border-color: #ADB380;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.consoleTab .mComponent .cHeader,
+body.consoleTab .genericTable,
+body.consoleTab .bSubBlock,
+body.consoleTab .bPageBlock{
+    border-top: 3px solid #555555;
+}
+
+/** Enhanced List **/
+body.consoleTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #555555;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .consoleBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .consoleBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .consoleBlock .secondaryPalette .pbHeader{
+    border-color: #555555;
+}
+
+.consoleMru .mruIcon { background-image: url(/img/icon/console16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.consoleTab .pageTitleIcon, .individualPalette .consoleBlock .pageTitleIcon { background-image: url(/img/icon/console32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .consoleBlock .relatedListIcon, .allTabTab .consoleBlock .relatedListIcon { background-image: url(/img/icon/console24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .consoleBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .consoleBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.contactTab{
+    margin:0 10px;
+}
+body.contactTab .tabNavigation .tab .currentTab,
+body.contactTab #motifCurve,
+body.contactTab #motifCurve #mc_l,
+body.contactTab #motifCurve #mc_r{
+    background-color: #56458C;
+}
+body.contactTab  .primaryPalette,
+.individualPalette .contactBlock .primaryPalette {
+    background-color: #56458C;
+    border-color: #56458C;
+}
+body.contactTab  .secondaryPalette,
+.individualPalette .contactBlock .secondaryPalette {
+    background-color: #56458C;
+    border-color: #56458C;
+}
+body.contactTab  .tertiaryPalette,
+.individualPalette .contactBlock .tertiaryPalette {
+    background-color: #8370C2;
+    border-color: #8370C2;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.contactTab .mComponent .cHeader,
+body.contactTab .genericTable,
+body.contactTab .bSubBlock,
+body.contactTab .bPageBlock{
+    border-top: 3px solid #56458C;
+}
+
+/** Enhanced List **/
+body.contactTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #56458C;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .contactBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .contactBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .contactBlock .secondaryPalette .pbHeader{
+    border-color: #56458C;
+}
+
+.contactMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -82px;width:16px;
+	height:16px; }
+
+.contactTab .pageTitleIcon, .individualPalette .contactBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1022px;width:32px;
+	height:32px; }
+
+.bRelatedList .contactBlock .relatedListIcon, .allTabTab .contactBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -502px;width:24px;
+	height:24px; }
+
+.bRelatedList .contactBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .contactBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.contractTab{
+    margin:0 10px;
+}
+body.contractTab .tabNavigation .tab .currentTab,
+body.contractTab #motifCurve,
+body.contractTab #motifCurve #mc_l,
+body.contractTab #motifCurve #mc_r{
+    background-color: #66895F;
+}
+body.contractTab  .primaryPalette,
+.individualPalette .contractBlock .primaryPalette {
+    background-color: #66895F;
+    border-color: #66895F;
+}
+body.contractTab  .secondaryPalette,
+.individualPalette .contractBlock .secondaryPalette {
+    background-color: #66895F;
+    border-color: #66895F;
+}
+body.contractTab  .tertiaryPalette,
+.individualPalette .contractBlock .tertiaryPalette {
+    background-color: #8CAB87;
+    border-color: #8CAB87;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.contractTab .mComponent .cHeader,
+body.contractTab .genericTable,
+body.contractTab .bSubBlock,
+body.contractTab .bPageBlock{
+    border-top: 3px solid #66895F;
+}
+
+/** Enhanced List **/
+body.contractTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #66895F;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .contractBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .contractBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .contractBlock .secondaryPalette .pbHeader{
+    border-color: #66895F;
+}
+
+.contractMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -102px;width:16px;
+	height:16px; }
+
+.contractTab .pageTitleIcon, .individualPalette .contractBlock .pageTitleIcon { background-image: url(/img/icon/contracts32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .contractBlock .relatedListIcon, .allTabTab .contractBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -530px;width:24px;
+	height:24px; }
+
+.bRelatedList .contractBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .contractBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.customnotabTab{
+    margin:0 10px;
+}
+body.customnotabTab .tabNavigation .tab .currentTab,
+body.customnotabTab #motifCurve,
+body.customnotabTab #motifCurve #mc_l,
+body.customnotabTab #motifCurve #mc_r{
+    background-color: #747E96;
+}
+body.customnotabTab  .primaryPalette,
+.individualPalette .customnotabBlock .primaryPalette {
+    background-color: #747E96;
+    border-color: #747E96;
+}
+body.customnotabTab  .secondaryPalette,
+.individualPalette .customnotabBlock .secondaryPalette {
+    background-color: #747E96;
+    border-color: #747E96;
+}
+body.customnotabTab  .tertiaryPalette,
+.individualPalette .customnotabBlock .tertiaryPalette {
+    background-color: #8E9DBE;
+    border-color: #8E9DBE;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.customnotabTab .mComponent .cHeader,
+body.customnotabTab .genericTable,
+body.customnotabTab .bSubBlock,
+body.customnotabTab .bPageBlock{
+    border-top: 3px solid #747E96;
+}
+
+/** Enhanced List **/
+body.customnotabTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #747E96;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .customnotabBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .customnotabBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .customnotabBlock .secondaryPalette .pbHeader{
+    border-color: #747E96;
+}
+
+.customnotabMru .mruIcon { background-image: url(/img/icon/custom16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.customnotabTab .pageTitleIcon, .individualPalette .customnotabBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1058px;width:32px;
+	height:32px; }
+
+/* Motif for Hybrid Skin */
+body.dashboardTab{
+    margin:0 10px;
+}
+body.dashboardTab .tabNavigation .tab .currentTab,
+body.dashboardTab #motifCurve,
+body.dashboardTab #motifCurve #mc_l,
+body.dashboardTab #motifCurve #mc_r{
+    background-color: #861614;
+}
+body.dashboardTab  .primaryPalette,
+.individualPalette .dashboardBlock .primaryPalette {
+    background-color: #861614;
+    border-color: #861614;
+}
+body.dashboardTab  .secondaryPalette,
+.individualPalette .dashboardBlock .secondaryPalette {
+    background-color: #861614;
+    border-color: #861614;
+}
+body.dashboardTab  .tertiaryPalette,
+.individualPalette .dashboardBlock .tertiaryPalette {
+    background-color: #A55647;
+    border-color: #A55647;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.dashboardTab .mComponent .cHeader,
+body.dashboardTab .genericTable,
+body.dashboardTab .bSubBlock,
+body.dashboardTab .bPageBlock{
+    border-top: 3px solid #861614;
+}
+
+/** Enhanced List **/
+body.dashboardTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #861614;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .dashboardBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .dashboardBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .dashboardBlock .secondaryPalette .pbHeader{
+    border-color: #861614;
+}
+
+.dashboardMru .mruIcon { background-image: url(/img/icon/dashboards16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.dashboardTab .pageTitleIcon, .individualPalette .dashboardBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1094px;width:32px;
+	height:32px; }
+
+.bRelatedList .dashboardBlock .relatedListIcon, .allTabTab .dashboardBlock .relatedListIcon { background-image: url(/img/icon/dashboards24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .dashboardBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .dashboardBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.documentTab{
+    margin:0 10px;
+}
+body.documentTab .tabNavigation .tab .currentTab,
+body.documentTab #motifCurve,
+body.documentTab #motifCurve #mc_l,
+body.documentTab #motifCurve #mc_r{
+    background-color: #419BA6;
+}
+body.documentTab  .primaryPalette,
+.individualPalette .documentBlock .primaryPalette {
+    background-color: #419BA6;
+    border-color: #419BA6;
+}
+body.documentTab  .secondaryPalette,
+.individualPalette .documentBlock .secondaryPalette {
+    background-color: #419BA6;
+    border-color: #419BA6;
+}
+body.documentTab  .tertiaryPalette,
+.individualPalette .documentBlock .tertiaryPalette {
+    background-color: #86B2B6;
+    border-color: #86B2B6;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.documentTab .mComponent .cHeader,
+body.documentTab .genericTable,
+body.documentTab .bSubBlock,
+body.documentTab .bPageBlock{
+    border-top: 3px solid #419BA6;
+}
+
+/** Enhanced List **/
+body.documentTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #419BA6;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .documentBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .documentBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .documentBlock .secondaryPalette .pbHeader{
+    border-color: #419BA6;
+}
+
+.documentMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -122px;width:16px;
+	height:16px; }
+
+.documentTab .pageTitleIcon, .individualPalette .documentBlock .pageTitleIcon { background-image: url(/img/icon/documents32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .documentBlock .relatedListIcon, .allTabTab .documentBlock .relatedListIcon { background-image: url(/img/icon/documents24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .documentBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .documentBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.eventTab{
+    margin:0 10px;
+}
+body.eventTab .tabNavigation .tab .currentTab,
+body.eventTab #motifCurve,
+body.eventTab #motifCurve #mc_l,
+body.eventTab #motifCurve #mc_r{
+    background-color: #1797C0;
+}
+body.eventTab  .primaryPalette,
+.individualPalette .eventBlock .primaryPalette {
+    background-color: #1797C0;
+    border-color: #1797C0;
+}
+body.eventTab  .secondaryPalette,
+.individualPalette .eventBlock .secondaryPalette {
+    background-color: #CFEEF8;
+    border-color: #CFEEF8;
+}
+body.eventTab  .tertiaryPalette,
+.individualPalette .eventBlock .tertiaryPalette {
+    background-color: #CFEEF8;
+    border-color: #CFEEF8;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.eventTab .mComponent .cHeader,
+body.eventTab .genericTable,
+body.eventTab .bSubBlock,
+body.eventTab .bPageBlock{
+    border-top: 3px solid #1797C0;
+}
+
+/** Enhanced List **/
+body.eventTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #1797C0;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .eventBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .eventBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .eventBlock .secondaryPalette .pbHeader{
+    border-color: #CFEEF8;
+}
+
+.eventMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -22px;width:16px;
+	height:16px; }
+
+.eventTab .pageTitleIcon, .individualPalette .eventBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1130px;width:32px;
+	height:32px; }
+
+/* Motif for Hybrid Skin */
+body.forecastTab{
+    margin:0 10px;
+}
+body.forecastTab .tabNavigation .tab .currentTab,
+body.forecastTab #motifCurve,
+body.forecastTab #motifCurve #mc_l,
+body.forecastTab #motifCurve #mc_r{
+    background-color: #5889D6;
+}
+body.forecastTab  .primaryPalette,
+.individualPalette .forecastBlock .primaryPalette {
+    background-color: #5889D6;
+    border-color: #5889D6;
+}
+body.forecastTab  .secondaryPalette,
+.individualPalette .forecastBlock .secondaryPalette {
+    background-color: #5889D6;
+    border-color: #5889D6;
+}
+body.forecastTab  .tertiaryPalette,
+.individualPalette .forecastBlock .tertiaryPalette {
+    background-color: #829DC9;
+    border-color: #829DC9;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.forecastTab .mComponent .cHeader,
+body.forecastTab .genericTable,
+body.forecastTab .bSubBlock,
+body.forecastTab .bPageBlock{
+    border-top: 3px solid #5889D6;
+}
+
+/** Enhanced List **/
+body.forecastTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #5889D6;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .forecastBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .forecastBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .forecastBlock .secondaryPalette .pbHeader{
+    border-color: #5889D6;
+}
+
+.forecastMru .mruIcon { background-image: url(/img/icon/forecasts16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.forecastTab .pageTitleIcon, .individualPalette .forecastBlock .pageTitleIcon { background-image: url(/img/icon/forecasts32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .forecastBlock .relatedListIcon, .allTabTab .forecastBlock .relatedListIcon { background-image: url(/img/icon/forecasts24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .forecastBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .forecastBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.homeTab{
+    margin:0 10px;
+}
+body.homeTab .tabNavigation .tab .currentTab,
+body.homeTab #motifCurve,
+body.homeTab #motifCurve #mc_l,
+body.homeTab #motifCurve #mc_r{
+    background-color: #1797C0;
+}
+body.homeTab  .primaryPalette,
+.individualPalette .homeBlock .primaryPalette {
+    background-color: #1797C0;
+    border-color: #1797C0;
+}
+body.homeTab  .secondaryPalette,
+.individualPalette .homeBlock .secondaryPalette {
+    background-color: #CFEEF8;
+    border-color: #CFEEF8;
+}
+body.homeTab  .tertiaryPalette,
+.individualPalette .homeBlock .tertiaryPalette {
+    background-color: #CFEEF8;
+    border-color: #CFEEF8;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.homeTab .mComponent .cHeader,
+body.homeTab .genericTable,
+body.homeTab .bSubBlock,
+body.homeTab .bPageBlock{
+    border-top: 3px solid #1797C0;
+}
+
+/** Enhanced List **/
+body.homeTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #1797C0;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .homeBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .homeBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .homeBlock .secondaryPalette .pbHeader{
+    border-color: #CFEEF8;
+}
+
+.homeMru .mruIcon { background-image: url(/img/icon/home16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.homeTab .pageTitleIcon, .individualPalette .homeBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1130px;width:32px;
+	height:32px; }
+
+.bRelatedList .homeBlock .relatedListIcon, .allTabTab .homeBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -642px;width:24px;
+	height:24px; }
+
+.bRelatedList .homeBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .homeBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.invoiceTab{
+    margin:0 10px;
+}
+body.invoiceTab .tabNavigation .tab .currentTab,
+body.invoiceTab #motifCurve,
+body.invoiceTab #motifCurve #mc_l,
+body.invoiceTab #motifCurve #mc_r{
+    background-color: #66AA99;
+}
+body.invoiceTab  .primaryPalette,
+.individualPalette .invoiceBlock .primaryPalette {
+    background-color: #66AA99;
+    border-color: #66AA99;
+}
+body.invoiceTab  .secondaryPalette,
+.individualPalette .invoiceBlock .secondaryPalette {
+    background-color: #66AA99;
+    border-color: #66AA99;
+}
+body.invoiceTab  .tertiaryPalette,
+.individualPalette .invoiceBlock .tertiaryPalette {
+    background-color: #39B698;
+    border-color: #39B698;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.invoiceTab .mComponent .cHeader,
+body.invoiceTab .genericTable,
+body.invoiceTab .bSubBlock,
+body.invoiceTab .bPageBlock{
+    border-top: 3px solid #66AA99;
+}
+
+/** Enhanced List **/
+body.invoiceTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #66AA99;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .invoiceBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .invoiceBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .invoiceBlock .secondaryPalette .pbHeader{
+    border-color: #66AA99;
+}
+
+.invoiceMru .mruIcon { background-image: url(/img/icon/invoices16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.invoiceTab .pageTitleIcon, .individualPalette .invoiceBlock .pageTitleIcon { background-image: url(/img/icon/invoices32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .invoiceBlock .relatedListIcon, .allTabTab .invoiceBlock .relatedListIcon { background-image: url(/img/icon/invoices24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .invoiceBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .invoiceBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.leadTab{
+    margin:0 10px;
+}
+body.leadTab .tabNavigation .tab .currentTab,
+body.leadTab #motifCurve,
+body.leadTab #motifCurve #mc_l,
+body.leadTab #motifCurve #mc_r{
+    background-color: #E39321;
+}
+body.leadTab  .primaryPalette,
+.individualPalette .leadBlock .primaryPalette {
+    background-color: #E39321;
+    border-color: #E39321;
+}
+body.leadTab  .secondaryPalette,
+.individualPalette .leadBlock .secondaryPalette {
+    background-color: #E39321;
+    border-color: #E39321;
+}
+body.leadTab  .tertiaryPalette,
+.individualPalette .leadBlock .tertiaryPalette {
+    background-color: #EBAF59;
+    border-color: #EBAF59;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.leadTab .mComponent .cHeader,
+body.leadTab .genericTable,
+body.leadTab .bSubBlock,
+body.leadTab .bPageBlock{
+    border-top: 3px solid #E39321;
+}
+
+/** Enhanced List **/
+body.leadTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #E39321;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .leadBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .leadBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .leadBlock .secondaryPalette .pbHeader{
+    border-color: #E39321;
+}
+
+.leadMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -202px;width:16px;
+	height:16px; }
+
+.leadTab .pageTitleIcon, .individualPalette .leadBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1166px;width:32px;
+	height:32px; }
+
+.bRelatedList .leadBlock .relatedListIcon, .allTabTab .leadBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -698px;width:24px;
+	height:24px; }
+
+.bRelatedList .leadBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .leadBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.lookupTab{
+    margin:0 10px;
+}
+body.lookupTab .tabNavigation .tab .currentTab,
+body.lookupTab #motifCurve,
+body.lookupTab #motifCurve #mc_l,
+body.lookupTab #motifCurve #mc_r{
+    background-color: #737E96;
+}
+body.lookupTab  .primaryPalette,
+.individualPalette .lookupBlock .primaryPalette {
+    background-color: #737E96;
+    border-color: #737E96;
+}
+body.lookupTab  .secondaryPalette,
+.individualPalette .lookupBlock .secondaryPalette {
+    background-color: #737E96;
+    border-color: #737E96;
+}
+body.lookupTab  .tertiaryPalette,
+.individualPalette .lookupBlock .tertiaryPalette {
+    background-color: #8E9DBE;
+    border-color: #8E9DBE;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.lookupTab .mComponent .cHeader,
+body.lookupTab .genericTable,
+body.lookupTab .bSubBlock,
+body.lookupTab .bPageBlock{
+    border-top: 3px solid #737E96;
+}
+
+/** Enhanced List **/
+body.lookupTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #737E96;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .lookupBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .lookupBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .lookupBlock .secondaryPalette .pbHeader{
+    border-color: #737E96;
+}
+
+.lookupMru .mruIcon { background-image: url(/img/icon/custom16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.lookupTab .pageTitleIcon, .individualPalette .lookupBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1202px;width:32px;
+	height:32px; }
+
+.bRelatedList .lookupBlock .relatedListIcon, .allTabTab .lookupBlock .relatedListIcon { background-image: url(/img/icon/custom24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .lookupBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .lookupBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.opportunityTab{
+    margin:0 10px;
+}
+body.opportunityTab .tabNavigation .tab .currentTab,
+body.opportunityTab #motifCurve,
+body.opportunityTab #motifCurve #mc_l,
+body.opportunityTab #motifCurve #mc_r{
+    background-color: #E5C130;
+}
+body.opportunityTab  .primaryPalette,
+.individualPalette .opportunityBlock .primaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.opportunityTab  .secondaryPalette,
+.individualPalette .opportunityBlock .secondaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.opportunityTab  .tertiaryPalette,
+.individualPalette .opportunityBlock .tertiaryPalette {
+    background-color: #DDB929;
+    border-color: #DDB929;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.opportunityTab .mComponent .cHeader,
+body.opportunityTab .genericTable,
+body.opportunityTab .bSubBlock,
+body.opportunityTab .bPageBlock{
+    border-top: 3px solid #E5C130;
+}
+
+/** Enhanced List **/
+body.opportunityTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #E5C130;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .opportunityBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .opportunityBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .opportunityBlock .secondaryPalette .pbHeader{
+    border-color: #E5C130;
+}
+
+.opportunityMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -242px;width:16px;
+	height:16px; }
+
+.opportunityTab .pageTitleIcon, .individualPalette .opportunityBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1238px;width:32px;
+	height:32px; }
+
+.bRelatedList .opportunityBlock .relatedListIcon, .allTabTab .opportunityBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -782px;width:24px;
+	height:24px; }
+
+.bRelatedList .opportunityBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .opportunityBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.quoteTab{
+    margin:0 10px;
+}
+body.quoteTab .tabNavigation .tab .currentTab,
+body.quoteTab #motifCurve,
+body.quoteTab #motifCurve #mc_l,
+body.quoteTab #motifCurve #mc_r{
+    background-color: #E5C130;
+}
+body.quoteTab  .primaryPalette,
+.individualPalette .quoteBlock .primaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.quoteTab  .secondaryPalette,
+.individualPalette .quoteBlock .secondaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.quoteTab  .tertiaryPalette,
+.individualPalette .quoteBlock .tertiaryPalette {
+    background-color: #DDB929;
+    border-color: #DDB929;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.quoteTab .mComponent .cHeader,
+body.quoteTab .genericTable,
+body.quoteTab .bSubBlock,
+body.quoteTab .bPageBlock{
+    border-top: 3px solid #E5C130;
+}
+
+/** Enhanced List **/
+body.quoteTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #E5C130;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .quoteBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .quoteBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .quoteBlock .secondaryPalette .pbHeader{
+    border-color: #E5C130;
+}
+
+.quoteMru .mruIcon { background-image: url(/img/icon/quotes16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.quoteTab .pageTitleIcon, .individualPalette .quoteBlock .pageTitleIcon { background-image: url(/img/icon/quotes32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .quoteBlock .relatedListIcon, .allTabTab .quoteBlock .relatedListIcon { background-image: url(/img/icon/quotes24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .quoteBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .quoteBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.quoteLineItemTab{
+    margin:0 10px;
+}
+body.quoteLineItemTab .tabNavigation .tab .currentTab,
+body.quoteLineItemTab #motifCurve,
+body.quoteLineItemTab #motifCurve #mc_l,
+body.quoteLineItemTab #motifCurve #mc_r{
+    background-color: #E5C130;
+}
+body.quoteLineItemTab  .primaryPalette,
+.individualPalette .quoteLineItemBlock .primaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.quoteLineItemTab  .secondaryPalette,
+.individualPalette .quoteLineItemBlock .secondaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.quoteLineItemTab  .tertiaryPalette,
+.individualPalette .quoteLineItemBlock .tertiaryPalette {
+    background-color: #DDB929;
+    border-color: #DDB929;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.quoteLineItemTab .mComponent .cHeader,
+body.quoteLineItemTab .genericTable,
+body.quoteLineItemTab .bSubBlock,
+body.quoteLineItemTab .bPageBlock{
+    border-top: 3px solid #E5C130;
+}
+
+/** Enhanced List **/
+body.quoteLineItemTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #E5C130;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .quoteLineItemBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .quoteLineItemBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .quoteLineItemBlock .secondaryPalette .pbHeader{
+    border-color: #E5C130;
+}
+
+.quoteLineItemMru .mruIcon { background-image: url(/img/icon/quotes16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.quoteLineItemTab .pageTitleIcon, .individualPalette .quoteLineItemBlock .pageTitleIcon { background-image: url(/img/icon/quotes32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+/* Motif for Hybrid Skin */
+body.quoteDocumentTab{
+    margin:0 10px;
+}
+body.quoteDocumentTab .tabNavigation .tab .currentTab,
+body.quoteDocumentTab #motifCurve,
+body.quoteDocumentTab #motifCurve #mc_l,
+body.quoteDocumentTab #motifCurve #mc_r{
+    background-color: #E5C130;
+}
+body.quoteDocumentTab  .primaryPalette,
+.individualPalette .quoteDocumentBlock .primaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.quoteDocumentTab  .secondaryPalette,
+.individualPalette .quoteDocumentBlock .secondaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.quoteDocumentTab  .tertiaryPalette,
+.individualPalette .quoteDocumentBlock .tertiaryPalette {
+    background-color: #DDB929;
+    border-color: #DDB929;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.quoteDocumentTab .mComponent .cHeader,
+body.quoteDocumentTab .genericTable,
+body.quoteDocumentTab .bSubBlock,
+body.quoteDocumentTab .bPageBlock{
+    border-top: 3px solid #E5C130;
+}
+
+/** Enhanced List **/
+body.quoteDocumentTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #E5C130;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .quoteDocumentBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .quoteDocumentBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .quoteDocumentBlock .secondaryPalette .pbHeader{
+    border-color: #E5C130;
+}
+
+.quoteDocumentMru .mruIcon { background-image: url(/img/icon/quotes16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.quoteDocumentTab .pageTitleIcon, .individualPalette .quoteDocumentBlock .pageTitleIcon { background-image: url(/img/icon/quotes32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+/* Motif for Hybrid Skin */
+body.orderTab{
+    margin:0 10px;
+}
+body.orderTab .tabNavigation .tab .currentTab,
+body.orderTab #motifCurve,
+body.orderTab #motifCurve #mc_l,
+body.orderTab #motifCurve #mc_r{
+    background-color: #00655A;
+}
+body.orderTab  .primaryPalette,
+.individualPalette .orderBlock .primaryPalette {
+    background-color: #00655A;
+    border-color: #00655A;
+}
+body.orderTab  .secondaryPalette,
+.individualPalette .orderBlock .secondaryPalette {
+    background-color: #00655A;
+    border-color: #00655A;
+}
+body.orderTab  .tertiaryPalette,
+.individualPalette .orderBlock .tertiaryPalette {
+    background-color: #6AAFA2;
+    border-color: #6AAFA2;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.orderTab .mComponent .cHeader,
+body.orderTab .genericTable,
+body.orderTab .bSubBlock,
+body.orderTab .bPageBlock{
+    border-top: 3px solid #00655A;
+}
+
+/** Enhanced List **/
+body.orderTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #00655A;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .orderBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .orderBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .orderBlock .secondaryPalette .pbHeader{
+    border-color: #00655A;
+}
+
+.orderMru .mruIcon { background-image: url(/img/icon/orderBell16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.orderTab .pageTitleIcon, .individualPalette .orderBlock .pageTitleIcon { background-image: url(/img/icon/orderBell32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .orderBlock .relatedListIcon, .allTabTab .orderBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -810px;width:24px;
+	height:24px; }
+
+.bRelatedList .orderBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .orderBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.personaccountTab{
+    margin:0 10px;
+}
+body.personaccountTab .tabNavigation .tab .currentTab,
+body.personaccountTab #motifCurve,
+body.personaccountTab #motifCurve #mc_l,
+body.personaccountTab #motifCurve #mc_r{
+    background-color: #236FBD;
+}
+body.personaccountTab  .primaryPalette,
+.individualPalette .personaccountBlock .primaryPalette {
+    background-color: #236FBD;
+    border-color: #236FBD;
+}
+body.personaccountTab  .secondaryPalette,
+.individualPalette .personaccountBlock .secondaryPalette {
+    background-color: #236FBD;
+    border-color: #236FBD;
+}
+body.personaccountTab  .tertiaryPalette,
+.individualPalette .personaccountBlock .tertiaryPalette {
+    background-color: #8A9EBE;
+    border-color: #8A9EBE;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.personaccountTab .mComponent .cHeader,
+body.personaccountTab .genericTable,
+body.personaccountTab .bSubBlock,
+body.personaccountTab .bPageBlock{
+    border-top: 3px solid #236FBD;
+}
+
+/** Enhanced List **/
+body.personaccountTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #236FBD;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .personaccountBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .personaccountBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .personaccountBlock .secondaryPalette .pbHeader{
+    border-color: #236FBD;
+}
+
+.personaccountMru .mruIcon { background-image: url(/img/icon/perAccounts16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.personaccountTab .pageTitleIcon, .individualPalette .personaccountBlock .pageTitleIcon { background-image: url(/img/icon/perAccounts32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .personaccountBlock .relatedListIcon, .allTabTab .personaccountBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -362px;width:24px;
+	height:24px; }
+
+.bRelatedList .personaccountBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .personaccountBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.portalTab{
+    margin:0 10px;
+}
+body.portalTab .tabNavigation .tab .currentTab,
+body.portalTab #motifCurve,
+body.portalTab #motifCurve #mc_l,
+body.portalTab #motifCurve #mc_r{
+    background-color: #999933;
+}
+body.portalTab  .primaryPalette,
+.individualPalette .portalBlock .primaryPalette {
+    background-color: #999933;
+    border-color: #999933;
+}
+body.portalTab  .secondaryPalette,
+.individualPalette .portalBlock .secondaryPalette {
+    background-color: #999933;
+    border-color: #999933;
+}
+body.portalTab  .tertiaryPalette,
+.individualPalette .portalBlock .tertiaryPalette {
+    background-color: #ADB380;
+    border-color: #ADB380;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.portalTab .mComponent .cHeader,
+body.portalTab .genericTable,
+body.portalTab .bSubBlock,
+body.portalTab .bPageBlock{
+    border-top: 3px solid #999933;
+}
+
+/** Enhanced List **/
+body.portalTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #999933;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .portalBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .portalBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .portalBlock .secondaryPalette .pbHeader{
+    border-color: #999933;
+}
+
+.portalMru .mruIcon { background-image: url(/img/icon/portals16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.portalTab .pageTitleIcon, .individualPalette .portalBlock .pageTitleIcon { background-image: url(/img/icon/portals32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .portalBlock .relatedListIcon, .allTabTab .portalBlock .relatedListIcon { background-image: url(/img/icon/portals24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .portalBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .portalBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.pricebookTab{
+    margin:0 10px;
+}
+body.pricebookTab .tabNavigation .tab .currentTab,
+body.pricebookTab #motifCurve,
+body.pricebookTab #motifCurve #mc_l,
+body.pricebookTab #motifCurve #mc_r{
+    background-color: #317992;
+}
+body.pricebookTab  .primaryPalette,
+.individualPalette .pricebookBlock .primaryPalette {
+    background-color: #317992;
+    border-color: #317992;
+}
+body.pricebookTab  .secondaryPalette,
+.individualPalette .pricebookBlock .secondaryPalette {
+    background-color: #317992;
+    border-color: #317992;
+}
+body.pricebookTab  .tertiaryPalette,
+.individualPalette .pricebookBlock .tertiaryPalette {
+    background-color: #4D91B3;
+    border-color: #4D91B3;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.pricebookTab .mComponent .cHeader,
+body.pricebookTab .genericTable,
+body.pricebookTab .bSubBlock,
+body.pricebookTab .bPageBlock{
+    border-top: 3px solid #317992;
+}
+
+/** Enhanced List **/
+body.pricebookTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #317992;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .pricebookBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .pricebookBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .pricebookBlock .secondaryPalette .pbHeader{
+    border-color: #317992;
+}
+
+.pricebookMru .mruIcon { background-image: url(/img/icon/products16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.pricebookTab .pageTitleIcon, .individualPalette .pricebookBlock .pageTitleIcon { background-image: url(/img/icon/products32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+/* Motif for Hybrid Skin */
+body.pricebookentryTab{
+    margin:0 10px;
+}
+body.pricebookentryTab .tabNavigation .tab .currentTab,
+body.pricebookentryTab #motifCurve,
+body.pricebookentryTab #motifCurve #mc_l,
+body.pricebookentryTab #motifCurve #mc_r{
+    background-color: #317992;
+}
+body.pricebookentryTab  .primaryPalette,
+.individualPalette .pricebookentryBlock .primaryPalette {
+    background-color: #317992;
+    border-color: #317992;
+}
+body.pricebookentryTab  .secondaryPalette,
+.individualPalette .pricebookentryBlock .secondaryPalette {
+    background-color: #317992;
+    border-color: #317992;
+}
+body.pricebookentryTab  .tertiaryPalette,
+.individualPalette .pricebookentryBlock .tertiaryPalette {
+    background-color: #4D91B3;
+    border-color: #4D91B3;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.pricebookentryTab .mComponent .cHeader,
+body.pricebookentryTab .genericTable,
+body.pricebookentryTab .bSubBlock,
+body.pricebookentryTab .bPageBlock{
+    border-top: 3px solid #317992;
+}
+
+/** Enhanced List **/
+body.pricebookentryTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #317992;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .pricebookentryBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .pricebookentryBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .pricebookentryBlock .secondaryPalette .pbHeader{
+    border-color: #317992;
+}
+
+.pricebookentryMru .mruIcon { background-image: url(/img/icon/products16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.pricebookentryTab .pageTitleIcon, .individualPalette .pricebookentryBlock .pageTitleIcon { background-image: url(/img/icon/products32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+/* Motif for Hybrid Skin */
+body.productTab{
+    margin:0 10px;
+}
+body.productTab .tabNavigation .tab .currentTab,
+body.productTab #motifCurve,
+body.productTab #motifCurve #mc_l,
+body.productTab #motifCurve #mc_r{
+    background-color: #317992;
+}
+body.productTab  .primaryPalette,
+.individualPalette .productBlock .primaryPalette {
+    background-color: #317992;
+    border-color: #317992;
+}
+body.productTab  .secondaryPalette,
+.individualPalette .productBlock .secondaryPalette {
+    background-color: #317992;
+    border-color: #317992;
+}
+body.productTab  .tertiaryPalette,
+.individualPalette .productBlock .tertiaryPalette {
+    background-color: #4D91B3;
+    border-color: #4D91B3;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.productTab .mComponent .cHeader,
+body.productTab .genericTable,
+body.productTab .bSubBlock,
+body.productTab .bPageBlock{
+    border-top: 3px solid #317992;
+}
+
+/** Enhanced List **/
+body.productTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #317992;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .productBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .productBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .productBlock .secondaryPalette .pbHeader{
+    border-color: #317992;
+}
+
+.productMru .mruIcon { background-image: url(/img/icon/products16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.productTab .pageTitleIcon, .individualPalette .productBlock .pageTitleIcon { background-image: url(/img/icon/products32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .productBlock .relatedListIcon, .allTabTab .productBlock .relatedListIcon { background-image: url(/img/icon/products24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .productBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .productBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.reportTab{
+    margin:0 10px;
+}
+body.reportTab .tabNavigation .tab .currentTab,
+body.reportTab #motifCurve,
+body.reportTab #motifCurve #mc_l,
+body.reportTab #motifCurve #mc_r{
+    background-color: #A55647;
+}
+body.reportTab  .primaryPalette,
+.individualPalette .reportBlock .primaryPalette {
+    background-color: #A55647;
+    border-color: #A55647;
+}
+body.reportTab  .secondaryPalette,
+.individualPalette .reportBlock .secondaryPalette {
+    background-color: #A55647;
+    border-color: #A55647;
+}
+body.reportTab  .tertiaryPalette,
+.individualPalette .reportBlock .tertiaryPalette {
+    background-color: #AF756A;
+    border-color: #AF756A;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.reportTab .mComponent .cHeader,
+body.reportTab .genericTable,
+body.reportTab .bSubBlock,
+body.reportTab .bPageBlock{
+    border-top: 3px solid #A55647;
+}
+
+/** Enhanced List **/
+body.reportTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #A55647;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .reportBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .reportBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .reportBlock .secondaryPalette .pbHeader{
+    border-color: #A55647;
+}
+
+.reportMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -282px;width:16px;
+	height:16px; }
+
+.reportTab .pageTitleIcon, .individualPalette .reportBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1274px;width:32px;
+	height:32px; }
+
+.bRelatedList .reportBlock .relatedListIcon, .allTabTab .reportBlock .relatedListIcon { background-image: url(/img/icon/reports24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .reportBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .reportBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.setupTab{
+    margin:0 10px;
+}
+body.setupTab .tabNavigation .tab .currentTab,
+body.setupTab #motifCurve,
+body.setupTab #motifCurve #mc_l,
+body.setupTab #motifCurve #mc_r{
+    background-color: #747E96;
+}
+body.setupTab  .primaryPalette,
+.individualPalette .setupBlock .primaryPalette {
+    background-color: #747E96;
+    border-color: #747E96;
+}
+body.setupTab  .secondaryPalette,
+.individualPalette .setupBlock .secondaryPalette {
+    background-color: #747E96;
+    border-color: #747E96;
+}
+body.setupTab  .tertiaryPalette,
+.individualPalette .setupBlock .tertiaryPalette {
+    background-color: #8E9DBE;
+    border-color: #8E9DBE;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.setupTab .mComponent .cHeader,
+body.setupTab .genericTable,
+body.setupTab .bSubBlock,
+body.setupTab .bPageBlock{
+    border-top: 3px solid #747E96;
+}
+
+/** Enhanced List **/
+body.setupTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #747E96;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .setupBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .setupBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .setupBlock .secondaryPalette .pbHeader{
+    border-color: #747E96;
+}
+
+.setupMru .mruIcon { background-image: url(/img/icon/custom16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.setupTab .pageTitleIcon, .individualPalette .setupBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1058px;width:32px;
+	height:32px; }
+
+/* Motif for Hybrid Skin */
+body.solutionTab{
+    margin:0 10px;
+}
+body.solutionTab .tabNavigation .tab .currentTab,
+body.solutionTab #motifCurve,
+body.solutionTab #motifCurve #mc_l,
+body.solutionTab #motifCurve #mc_r{
+    background-color: #608B06;
+}
+body.solutionTab  .primaryPalette,
+.individualPalette .solutionBlock .primaryPalette {
+    background-color: #608B06;
+    border-color: #608B06;
+}
+body.solutionTab  .secondaryPalette,
+.individualPalette .solutionBlock .secondaryPalette {
+    background-color: #567A00;
+    border-color: #567A00;
+}
+body.solutionTab  .tertiaryPalette,
+.individualPalette .solutionBlock .tertiaryPalette {
+    background-color: #8A9744;
+    border-color: #8A9744;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.solutionTab .mComponent .cHeader,
+body.solutionTab .genericTable,
+body.solutionTab .bSubBlock,
+body.solutionTab .bPageBlock{
+    border-top: 3px solid #608B06;
+}
+
+/** Enhanced List **/
+body.solutionTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #608B06;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .solutionBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .solutionBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .solutionBlock .secondaryPalette .pbHeader{
+    border-color: #567A00;
+}
+
+.solutionMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -302px;width:16px;
+	height:16px; }
+
+.solutionTab .pageTitleIcon, .individualPalette .solutionBlock .pageTitleIcon { background-image: url(/img/icon/solutions32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .solutionBlock .relatedListIcon, .allTabTab .solutionBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -894px;width:24px;
+	height:24px; }
+
+.bRelatedList .solutionBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .solutionBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.sysAdminTab{
+    margin:0 10px;
+}
+body.sysAdminTab .tabNavigation .tab .currentTab,
+body.sysAdminTab #motifCurve,
+body.sysAdminTab #motifCurve #mc_l,
+body.sysAdminTab #motifCurve #mc_r{
+    background-color: #000000;
+}
+body.sysAdminTab  .primaryPalette,
+.individualPalette .sysAdminBlock .primaryPalette {
+    background-color: #000000;
+    border-color: #000000;
+}
+body.sysAdminTab  .secondaryPalette,
+.individualPalette .sysAdminBlock .secondaryPalette {
+    background-color: #000000;
+    border-color: #000000;
+}
+body.sysAdminTab  .tertiaryPalette,
+.individualPalette .sysAdminBlock .tertiaryPalette {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.sysAdminTab .mComponent .cHeader,
+body.sysAdminTab .genericTable,
+body.sysAdminTab .bSubBlock,
+body.sysAdminTab .bPageBlock{
+    border-top: 3px solid #000000;
+}
+
+/** Enhanced List **/
+body.sysAdminTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #000000;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .sysAdminBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .sysAdminBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .sysAdminBlock .secondaryPalette .pbHeader{
+    border-color: #000000;
+}
+
+/* Motif for Hybrid Skin */
+body.taskTab{
+    margin:0 10px;
+}
+body.taskTab .tabNavigation .tab .currentTab,
+body.taskTab #motifCurve,
+body.taskTab #motifCurve #mc_l,
+body.taskTab #motifCurve #mc_r{
+    background-color: #1797C0;
+}
+body.taskTab  .primaryPalette,
+.individualPalette .taskBlock .primaryPalette {
+    background-color: #1797C0;
+    border-color: #1797C0;
+}
+body.taskTab  .secondaryPalette,
+.individualPalette .taskBlock .secondaryPalette {
+    background-color: #CFEEF8;
+    border-color: #CFEEF8;
+}
+body.taskTab  .tertiaryPalette,
+.individualPalette .taskBlock .tertiaryPalette {
+    background-color: #CFEEF8;
+    border-color: #CFEEF8;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.taskTab .mComponent .cHeader,
+body.taskTab .genericTable,
+body.taskTab .bSubBlock,
+body.taskTab .bPageBlock{
+    border-top: 3px solid #1797C0;
+}
+
+/** Enhanced List **/
+body.taskTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #1797C0;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .taskBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .taskBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .taskBlock .secondaryPalette .pbHeader{
+    border-color: #CFEEF8;
+}
+
+.taskMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -342px;width:16px;
+	height:16px; }
+
+.taskTab .pageTitleIcon, .individualPalette .taskBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1130px;width:32px;
+	height:32px; }
+
+/* Motif for Hybrid Skin */
+body.opportunityCompetitorTab{
+    margin:0 10px;
+}
+body.opportunityCompetitorTab .tabNavigation .tab .currentTab,
+body.opportunityCompetitorTab #motifCurve,
+body.opportunityCompetitorTab #motifCurve #mc_l,
+body.opportunityCompetitorTab #motifCurve #mc_r{
+    background-color: #E5C130;
+}
+body.opportunityCompetitorTab  .primaryPalette,
+.individualPalette .opportunityCompetitorBlock .primaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.opportunityCompetitorTab  .secondaryPalette,
+.individualPalette .opportunityCompetitorBlock .secondaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.opportunityCompetitorTab  .tertiaryPalette,
+.individualPalette .opportunityCompetitorBlock .tertiaryPalette {
+    background-color: #DDB929;
+    border-color: #DDB929;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.opportunityCompetitorTab .mComponent .cHeader,
+body.opportunityCompetitorTab .genericTable,
+body.opportunityCompetitorTab .bSubBlock,
+body.opportunityCompetitorTab .bPageBlock{
+    border-top: 3px solid #E5C130;
+}
+
+/** Enhanced List **/
+body.opportunityCompetitorTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #E5C130;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .opportunityCompetitorBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .opportunityCompetitorBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .opportunityCompetitorBlock .secondaryPalette .pbHeader{
+    border-color: #E5C130;
+}
+
+.opportunityCompetitorMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -242px;width:16px;
+	height:16px; }
+
+.opportunityCompetitorTab .pageTitleIcon, .individualPalette .opportunityCompetitorBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1238px;width:32px;
+	height:32px; }
+
+/* Motif for Hybrid Skin */
+body.opportunityLineItemTab{
+    margin:0 10px;
+}
+body.opportunityLineItemTab .tabNavigation .tab .currentTab,
+body.opportunityLineItemTab #motifCurve,
+body.opportunityLineItemTab #motifCurve #mc_l,
+body.opportunityLineItemTab #motifCurve #mc_r{
+    background-color: #E5C130;
+}
+body.opportunityLineItemTab  .primaryPalette,
+.individualPalette .opportunityLineItemBlock .primaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.opportunityLineItemTab  .secondaryPalette,
+.individualPalette .opportunityLineItemBlock .secondaryPalette {
+    background-color: #E5C130;
+    border-color: #E5C130;
+}
+body.opportunityLineItemTab  .tertiaryPalette,
+.individualPalette .opportunityLineItemBlock .tertiaryPalette {
+    background-color: #DDB929;
+    border-color: #DDB929;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.opportunityLineItemTab .mComponent .cHeader,
+body.opportunityLineItemTab .genericTable,
+body.opportunityLineItemTab .bSubBlock,
+body.opportunityLineItemTab .bPageBlock{
+    border-top: 3px solid #E5C130;
+}
+
+/** Enhanced List **/
+body.opportunityLineItemTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #E5C130;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .opportunityLineItemBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .opportunityLineItemBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .opportunityLineItemBlock .secondaryPalette .pbHeader{
+    border-color: #E5C130;
+}
+
+.opportunityLineItemMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -242px;width:16px;
+	height:16px; }
+
+.opportunityLineItemTab .pageTitleIcon, .individualPalette .opportunityLineItemBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1238px;width:32px;
+	height:32px; }
+
+/* Motif for Hybrid Skin */
+body.partnerNetworkConnectionTab{
+    margin:0 10px;
+}
+body.partnerNetworkConnectionTab .tabNavigation .tab .currentTab,
+body.partnerNetworkConnectionTab #motifCurve,
+body.partnerNetworkConnectionTab #motifCurve #mc_l,
+body.partnerNetworkConnectionTab #motifCurve #mc_r{
+    background-color: #64B49D;
+}
+body.partnerNetworkConnectionTab  .primaryPalette,
+.individualPalette .partnerNetworkConnectionBlock .primaryPalette {
+    background-color: #64B49D;
+    border-color: #64B49D;
+}
+body.partnerNetworkConnectionTab  .secondaryPalette,
+.individualPalette .partnerNetworkConnectionBlock .secondaryPalette {
+    background-color: #64B49D;
+    border-color: #64B49D;
+}
+body.partnerNetworkConnectionTab  .tertiaryPalette,
+.individualPalette .partnerNetworkConnectionBlock .tertiaryPalette {
+    background-color: #64B49D;
+    border-color: #64B49D;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.partnerNetworkConnectionTab .mComponent .cHeader,
+body.partnerNetworkConnectionTab .genericTable,
+body.partnerNetworkConnectionTab .bSubBlock,
+body.partnerNetworkConnectionTab .bPageBlock{
+    border-top: 3px solid #64B49D;
+}
+
+/** Enhanced List **/
+body.partnerNetworkConnectionTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #64B49D;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .partnerNetworkConnectionBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .partnerNetworkConnectionBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .partnerNetworkConnectionBlock .secondaryPalette .pbHeader{
+    border-color: #64B49D;
+}
+
+.partnerNetworkConnectionMru .mruIcon { background-image: url(/img/icon/pnet_connection16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.partnerNetworkConnectionTab .pageTitleIcon, .individualPalette .partnerNetworkConnectionBlock .pageTitleIcon { background-image: url(/img/icon/pnet_connection32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .partnerNetworkConnectionBlock .relatedListIcon, .allTabTab .partnerNetworkConnectionBlock .relatedListIcon { background-image: url(/img/icon/pnet_connection24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .partnerNetworkConnectionBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .partnerNetworkConnectionBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.tagTab{
+    margin:0 10px;
+}
+body.tagTab .tabNavigation .tab .currentTab,
+body.tagTab #motifCurve,
+body.tagTab #motifCurve #mc_l,
+body.tagTab #motifCurve #mc_r{
+    background-color: #6cd146;
+}
+body.tagTab  .primaryPalette,
+.individualPalette .tagBlock .primaryPalette {
+    background-color: #6cd146;
+    border-color: #6cd146;
+}
+body.tagTab  .secondaryPalette,
+.individualPalette .tagBlock .secondaryPalette {
+    background-color: #6cd146;
+    border-color: #6cd146;
+}
+body.tagTab  .tertiaryPalette,
+.individualPalette .tagBlock .tertiaryPalette {
+    background-color: #c8ebbb;
+    border-color: #c8ebbb;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.tagTab .mComponent .cHeader,
+body.tagTab .genericTable,
+body.tagTab .bSubBlock,
+body.tagTab .bPageBlock{
+    border-top: 3px solid #6cd146;
+}
+
+/** Enhanced List **/
+body.tagTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #6cd146;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .tagBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .tagBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .tagBlock .secondaryPalette .pbHeader{
+    border-color: #6cd146;
+}
+
+.tagMru .mruIcon { background-image: url(/img/icon/tag16.gif);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.tagTab .pageTitleIcon, .individualPalette .tagBlock .pageTitleIcon { background-image: url(/img/icon/tags32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .tagBlock .relatedListIcon, .allTabTab .tagBlock .relatedListIcon { background-image: url(/img/icon/tag16.gif);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.bRelatedList .tagBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .tagBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.workspaceTab{
+    margin:0 10px;
+}
+body.workspaceTab .tabNavigation .tab .currentTab,
+body.workspaceTab #motifCurve,
+body.workspaceTab #motifCurve #mc_l,
+body.workspaceTab #motifCurve #mc_r{
+    background-color: #72afba;
+}
+body.workspaceTab  .primaryPalette,
+.individualPalette .workspaceBlock .primaryPalette {
+    background-color: #72afba;
+    border-color: #72afba;
+}
+body.workspaceTab  .secondaryPalette,
+.individualPalette .workspaceBlock .secondaryPalette {
+    background-color: #72afba;
+    border-color: #72afba;
+}
+body.workspaceTab  .tertiaryPalette,
+.individualPalette .workspaceBlock .tertiaryPalette {
+    background-color: #85c4cf;
+    border-color: #85c4cf;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.workspaceTab .mComponent .cHeader,
+body.workspaceTab .genericTable,
+body.workspaceTab .bSubBlock,
+body.workspaceTab .bPageBlock{
+    border-top: 3px solid #72afba;
+}
+
+/** Enhanced List **/
+body.workspaceTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #72afba;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .workspaceBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .workspaceBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .workspaceBlock .secondaryPalette .pbHeader{
+    border-color: #72afba;
+}
+
+.workspaceMru .mruIcon { background-image: url(/img/content/workspace16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.workspaceTab .pageTitleIcon, .individualPalette .workspaceBlock .pageTitleIcon { background-image: url(/img/content/workspace32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .workspaceBlock .relatedListIcon, .allTabTab .workspaceBlock .relatedListIcon { background-image: url(/img/content/workspace24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .workspaceBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .workspaceBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.contentSearchTab{
+    margin:0 10px;
+}
+body.contentSearchTab .tabNavigation .tab .currentTab,
+body.contentSearchTab #motifCurve,
+body.contentSearchTab #motifCurve #mc_l,
+body.contentSearchTab #motifCurve #mc_r{
+    background-color: #993333;
+}
+body.contentSearchTab  .primaryPalette,
+.individualPalette .contentSearchBlock .primaryPalette {
+    background-color: #993333;
+    border-color: #993333;
+}
+body.contentSearchTab  .secondaryPalette,
+.individualPalette .contentSearchBlock .secondaryPalette {
+    background-color: #993333;
+    border-color: #993333;
+}
+body.contentSearchTab  .tertiaryPalette,
+.individualPalette .contentSearchBlock .tertiaryPalette {
+    background-color: #BE5E5E;
+    border-color: #BE5E5E;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.contentSearchTab .mComponent .cHeader,
+body.contentSearchTab .genericTable,
+body.contentSearchTab .bSubBlock,
+body.contentSearchTab .bPageBlock{
+    border-top: 3px solid #993333;
+}
+
+/** Enhanced List **/
+body.contentSearchTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #993333;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .contentSearchBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .contentSearchBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .contentSearchBlock .secondaryPalette .pbHeader{
+    border-color: #993333;
+}
+
+.contentSearchMru .mruIcon { background-image: url(/img/content/content16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.contentSearchTab .pageTitleIcon, .individualPalette .contentSearchBlock .pageTitleIcon { background-image: url(/img/content/content32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .contentSearchBlock .relatedListIcon, .allTabTab .contentSearchBlock .relatedListIcon { background-image: url(/img/content/content24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .contentSearchBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .contentSearchBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.chatterFileListTab{
+    margin:0 10px;
+}
+body.chatterFileListTab .tabNavigation .tab .currentTab,
+body.chatterFileListTab #motifCurve,
+body.chatterFileListTab #motifCurve #mc_l,
+body.chatterFileListTab #motifCurve #mc_r{
+    background-color: #2F527E;
+}
+body.chatterFileListTab  .primaryPalette,
+.individualPalette .chatterFileListBlock .primaryPalette {
+    background-color: #2F527E;
+    border-color: #2F527E;
+}
+body.chatterFileListTab  .secondaryPalette,
+.individualPalette .chatterFileListBlock .secondaryPalette {
+    background-color: #3A6690;
+    border-color: #3A6690;
+}
+body.chatterFileListTab  .tertiaryPalette,
+.individualPalette .chatterFileListBlock .tertiaryPalette {
+    background-color: #3A6690;
+    border-color: #3A6690;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.chatterFileListTab .mComponent .cHeader,
+body.chatterFileListTab .genericTable,
+body.chatterFileListTab .bSubBlock,
+body.chatterFileListTab .bPageBlock{
+    border-top: 3px solid #2F527E;
+}
+
+/** Enhanced List **/
+body.chatterFileListTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #2F527E;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .chatterFileListBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .chatterFileListBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .chatterFileListBlock .secondaryPalette .pbHeader{
+    border-color: #3A6690;
+}
+
+.chatterFileListMru .mruIcon { /* ERROR parsing css file: mruIcon. image or parameter not found in motif */ }
+
+.chatterFileListTab .pageTitleIcon, .individualPalette .chatterFileListBlock .pageTitleIcon { background-image: url(/img/icon/files32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .chatterFileListBlock .relatedListIcon, .allTabTab .chatterFileListBlock .relatedListIcon { /* ERROR parsing css file: relatedListIcon. image or parameter not found in motif */ }
+
+.bRelatedList .chatterFileListBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .chatterFileListBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.contentSubscriptionsTab{
+    margin:0 10px;
+}
+body.contentSubscriptionsTab .tabNavigation .tab .currentTab,
+body.contentSubscriptionsTab #motifCurve,
+body.contentSubscriptionsTab #motifCurve #mc_l,
+body.contentSubscriptionsTab #motifCurve #mc_r{
+    background-color: #26547C;
+}
+body.contentSubscriptionsTab  .primaryPalette,
+.individualPalette .contentSubscriptionsBlock .primaryPalette {
+    background-color: #26547C;
+    border-color: #26547C;
+}
+body.contentSubscriptionsTab  .secondaryPalette,
+.individualPalette .contentSubscriptionsBlock .secondaryPalette {
+    background-color: #26547C;
+    border-color: #26547C;
+}
+body.contentSubscriptionsTab  .tertiaryPalette,
+.individualPalette .contentSubscriptionsBlock .tertiaryPalette {
+    background-color: #5E82A3;
+    border-color: #5E82A3;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.contentSubscriptionsTab .mComponent .cHeader,
+body.contentSubscriptionsTab .genericTable,
+body.contentSubscriptionsTab .bSubBlock,
+body.contentSubscriptionsTab .bPageBlock{
+    border-top: 3px solid #26547C;
+}
+
+/** Enhanced List **/
+body.contentSubscriptionsTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #26547C;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .contentSubscriptionsBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .contentSubscriptionsBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .contentSubscriptionsBlock .secondaryPalette .pbHeader{
+    border-color: #26547C;
+}
+
+.contentSubscriptionsMru .mruIcon { background-image: url(/img/content/subscriptions16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.contentSubscriptionsTab .pageTitleIcon, .individualPalette .contentSubscriptionsBlock .pageTitleIcon { background-image: url(/img/content/subscriptions32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .contentSubscriptionsBlock .relatedListIcon, .allTabTab .contentSubscriptionsBlock .relatedListIcon { background-image: url(/img/content/subscriptions24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .contentSubscriptionsBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .contentSubscriptionsBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.contentContributeTab{
+    margin:0 10px;
+}
+body.contentContributeTab .tabNavigation .tab .currentTab,
+body.contentContributeTab #motifCurve,
+body.contentContributeTab #motifCurve #mc_l,
+body.contentContributeTab #motifCurve #mc_r{
+    background-color: #cc6600;
+}
+body.contentContributeTab  .primaryPalette,
+.individualPalette .contentContributeBlock .primaryPalette {
+    background-color: #cc6600;
+    border-color: #cc6600;
+}
+body.contentContributeTab  .secondaryPalette,
+.individualPalette .contentContributeBlock .secondaryPalette {
+    background-color: #cc6600;
+    border-color: #cc6600;
+}
+body.contentContributeTab  .tertiaryPalette,
+.individualPalette .contentContributeBlock .tertiaryPalette {
+    background-color: #d98e42;
+    border-color: #d98e42;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.contentContributeTab .mComponent .cHeader,
+body.contentContributeTab .genericTable,
+body.contentContributeTab .bSubBlock,
+body.contentContributeTab .bPageBlock{
+    border-top: 3px solid #cc6600;
+}
+
+/** Enhanced List **/
+body.contentContributeTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #cc6600;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .contentContributeBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .contentContributeBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .contentContributeBlock .secondaryPalette .pbHeader{
+    border-color: #cc6600;
+}
+
+.contentContributeMru .mruIcon { background-image: url(/img/content/contribute16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.contentContributeTab .pageTitleIcon, .individualPalette .contentContributeBlock .pageTitleIcon { background-image: url(/img/content/contribute32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .contentContributeBlock .relatedListIcon, .allTabTab .contentContributeBlock .relatedListIcon { background-image: url(/img/content/contribute24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .contentContributeBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .contentContributeBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.contentFavoritesTab{
+    margin:0 10px;
+}
+body.contentFavoritesTab .tabNavigation .tab .currentTab,
+body.contentFavoritesTab #motifCurve,
+body.contentFavoritesTab #motifCurve #mc_l,
+body.contentFavoritesTab #motifCurve #mc_r{
+    background-color: #CC9933;
+}
+body.contentFavoritesTab  .primaryPalette,
+.individualPalette .contentFavoritesBlock .primaryPalette {
+    background-color: #CC9933;
+    border-color: #CC9933;
+}
+body.contentFavoritesTab  .secondaryPalette,
+.individualPalette .contentFavoritesBlock .secondaryPalette {
+    background-color: #CC9933;
+    border-color: #CC9933;
+}
+body.contentFavoritesTab  .tertiaryPalette,
+.individualPalette .contentFavoritesBlock .tertiaryPalette {
+    background-color: #C9AF82;
+    border-color: #C9AF82;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.contentFavoritesTab .mComponent .cHeader,
+body.contentFavoritesTab .genericTable,
+body.contentFavoritesTab .bSubBlock,
+body.contentFavoritesTab .bPageBlock{
+    border-top: 3px solid #CC9933;
+}
+
+/** Enhanced List **/
+body.contentFavoritesTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #CC9933;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .contentFavoritesBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .contentFavoritesBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .contentFavoritesBlock .secondaryPalette .pbHeader{
+    border-color: #CC9933;
+}
+
+.contentFavoritesMru .mruIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -122px;width:16px;
+	height:16px; }
+
+.contentFavoritesTab .pageTitleIcon, .individualPalette .contentFavoritesBlock .pageTitleIcon { background-image: url(/img/icon/documents32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .contentFavoritesBlock .relatedListIcon, .allTabTab .contentFavoritesBlock .relatedListIcon { background-image: url(/img/icon/documents24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .contentFavoritesBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .contentFavoritesBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.contentDistributionTab{
+    margin:0 10px;
+}
+body.contentDistributionTab .tabNavigation .tab .currentTab,
+body.contentDistributionTab #motifCurve,
+body.contentDistributionTab #motifCurve #mc_l,
+body.contentDistributionTab #motifCurve #mc_r{
+    background-color: #993333;
+}
+body.contentDistributionTab  .primaryPalette,
+.individualPalette .contentDistributionBlock .primaryPalette {
+    background-color: #993333;
+    border-color: #993333;
+}
+body.contentDistributionTab  .secondaryPalette,
+.individualPalette .contentDistributionBlock .secondaryPalette {
+    background-color: #993333;
+    border-color: #993333;
+}
+body.contentDistributionTab  .tertiaryPalette,
+.individualPalette .contentDistributionBlock .tertiaryPalette {
+    background-color: #BE5E5E;
+    border-color: #BE5E5E;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.contentDistributionTab .mComponent .cHeader,
+body.contentDistributionTab .genericTable,
+body.contentDistributionTab .bSubBlock,
+body.contentDistributionTab .bPageBlock{
+    border-top: 3px solid #993333;
+}
+
+/** Enhanced List **/
+body.contentDistributionTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #993333;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .contentDistributionBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .contentDistributionBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .contentDistributionBlock .secondaryPalette .pbHeader{
+    border-color: #993333;
+}
+
+.contentDistributionMru .mruIcon { background-image: url(/img/content/deliver16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.contentDistributionTab .pageTitleIcon, .individualPalette .contentDistributionBlock .pageTitleIcon { background-image: url(/img/content/deliver32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .contentDistributionBlock .relatedListIcon, .allTabTab .contentDistributionBlock .relatedListIcon { background-image: url(/img/content/deliver24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .contentDistributionBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .contentDistributionBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.ideaTab{
+    margin:0 10px;
+}
+body.ideaTab .tabNavigation .tab .currentTab,
+body.ideaTab #motifCurve,
+body.ideaTab #motifCurve #mc_l,
+body.ideaTab #motifCurve #mc_r{
+    background-color: #178AFF;
+}
+body.ideaTab  .primaryPalette,
+.individualPalette .ideaBlock .primaryPalette {
+    background-color: #178AFF;
+    border-color: #178AFF;
+}
+body.ideaTab  .secondaryPalette,
+.individualPalette .ideaBlock .secondaryPalette {
+    background-color: #178AFF;
+    border-color: #178AFF;
+}
+body.ideaTab  .tertiaryPalette,
+.individualPalette .ideaBlock .tertiaryPalette {
+    background-color: #41C1FC;
+    border-color: #41C1FC;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.ideaTab .mComponent .cHeader,
+body.ideaTab .genericTable,
+body.ideaTab .bSubBlock,
+body.ideaTab .bPageBlock{
+    border-top: 3px solid #178AFF;
+}
+
+/** Enhanced List **/
+body.ideaTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #178AFF;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .ideaBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .ideaBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .ideaBlock .secondaryPalette .pbHeader{
+    border-color: #178AFF;
+}
+
+.ideaMru .mruIcon { background-image: url(/img/icon/ideabubble16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.ideaTab .pageTitleIcon, .individualPalette .ideaBlock .pageTitleIcon { background-image: url(/img/icon/ideabubble32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .ideaBlock .relatedListIcon, .allTabTab .ideaBlock .relatedListIcon { background-image: url(/img/icon/ideabubble24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .ideaBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .ideaBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.answersTab{
+    margin:0 10px;
+}
+body.answersTab .tabNavigation .tab .currentTab,
+body.answersTab #motifCurve,
+body.answersTab #motifCurve #mc_l,
+body.answersTab #motifCurve #mc_r{
+    background-color: #36A0FE;
+}
+body.answersTab  .primaryPalette,
+.individualPalette .answersBlock .primaryPalette {
+    background-color: #36A0FE;
+    border-color: #36A0FE;
+}
+body.answersTab  .secondaryPalette,
+.individualPalette .answersBlock .secondaryPalette {
+    background-color: #36A0FE;
+    border-color: #36A0FE;
+}
+body.answersTab  .tertiaryPalette,
+.individualPalette .answersBlock .tertiaryPalette {
+    background-color: #F9C57E;
+    border-color: #F9C57E;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.answersTab .mComponent .cHeader,
+body.answersTab .genericTable,
+body.answersTab .bSubBlock,
+body.answersTab .bPageBlock{
+    border-top: 3px solid #36A0FE;
+}
+
+/** Enhanced List **/
+body.answersTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #36A0FE;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .answersBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .answersBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .answersBlock .secondaryPalette .pbHeader{
+    border-color: #36A0FE;
+}
+
+.answersMru .mruIcon { background-image: url(/img/icon/questions16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.answersTab .pageTitleIcon, .individualPalette .answersBlock .pageTitleIcon { background-image: url(/img/icon/questions32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .answersBlock .relatedListIcon, .allTabTab .answersBlock .relatedListIcon { background-image: url(/img/icon/questions24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .answersBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .answersBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.googleDocsTab{
+    margin:0 10px;
+}
+body.googleDocsTab .tabNavigation .tab .currentTab,
+body.googleDocsTab #motifCurve,
+body.googleDocsTab #motifCurve #mc_l,
+body.googleDocsTab #motifCurve #mc_r{
+    background-color: #67A7E3;
+}
+body.googleDocsTab  .primaryPalette,
+.individualPalette .googleDocsBlock .primaryPalette {
+    background-color: #67A7E3;
+    border-color: #67A7E3;
+}
+body.googleDocsTab  .secondaryPalette,
+.individualPalette .googleDocsBlock .secondaryPalette {
+    background-color: #67A7E3;
+    border-color: #67A7E3;
+}
+body.googleDocsTab  .tertiaryPalette,
+.individualPalette .googleDocsBlock .tertiaryPalette {
+    background-color: #67A7E3;
+    border-color: #67A7E3;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.googleDocsTab .mComponent .cHeader,
+body.googleDocsTab .genericTable,
+body.googleDocsTab .bSubBlock,
+body.googleDocsTab .bPageBlock{
+    border-top: 3px solid #67A7E3;
+}
+
+/** Enhanced List **/
+body.googleDocsTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #67A7E3;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .googleDocsBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .googleDocsBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .googleDocsBlock .secondaryPalette .pbHeader{
+    border-color: #67A7E3;
+}
+
+.googleDocsMru .mruIcon { background-image: url(/s.gif);
+	background-position: 0px 0px;width:0px;
+	height:0px; }
+
+.googleDocsTab .pageTitleIcon, .individualPalette .googleDocsBlock .pageTitleIcon { background-image: url(/img/google/google_docs_icon_24x24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .googleDocsBlock .relatedListIcon, .allTabTab .googleDocsBlock .relatedListIcon { background-image: url(/img/google/google_docs_icon_24x24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .googleDocsBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .googleDocsBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.userTab{
+    margin:0 10px;
+}
+body.userTab .tabNavigation .tab .currentTab,
+body.userTab #motifCurve,
+body.userTab #motifCurve #mc_l,
+body.userTab #motifCurve #mc_r{
+    background-color: #2F527E;
+}
+body.userTab  .primaryPalette,
+.individualPalette .userBlock .primaryPalette {
+    background-color: #2F527E;
+    border-color: #2F527E;
+}
+body.userTab  .secondaryPalette,
+.individualPalette .userBlock .secondaryPalette {
+    background-color: #3A6690;
+    border-color: #3A6690;
+}
+body.userTab  .tertiaryPalette,
+.individualPalette .userBlock .tertiaryPalette {
+    background-color: #3A6690;
+    border-color: #3A6690;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.userTab .mComponent .cHeader,
+body.userTab .genericTable,
+body.userTab .bSubBlock,
+body.userTab .bPageBlock{
+    border-top: 3px solid #2F527E;
+}
+
+/** Enhanced List **/
+body.userTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #2F527E;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .userBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .userBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .userBlock .secondaryPalette .pbHeader{
+    border-color: #3A6690;
+}
+
+.userMru .mruIcon { background-image: url(/img/icon/profile16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.userTab .pageTitleIcon, .individualPalette .userBlock .pageTitleIcon { background-image: url(/img/icon/profile32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .userBlock .relatedListIcon, .allTabTab .userBlock .relatedListIcon { background-image: url(/img/icon/profile24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .userBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .userBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.knowledgeTab{
+    margin:0 10px;
+}
+body.knowledgeTab .tabNavigation .tab .currentTab,
+body.knowledgeTab #motifCurve,
+body.knowledgeTab #motifCurve #mc_l,
+body.knowledgeTab #motifCurve #mc_r{
+    background-color: #3F44A4;
+}
+body.knowledgeTab  .primaryPalette,
+.individualPalette .knowledgeBlock .primaryPalette {
+    background-color: #3F44A4;
+    border-color: #3F44A4;
+}
+body.knowledgeTab  .secondaryPalette,
+.individualPalette .knowledgeBlock .secondaryPalette {
+    background-color: #3F44A4;
+    border-color: #3F44A4;
+}
+body.knowledgeTab  .tertiaryPalette,
+.individualPalette .knowledgeBlock .tertiaryPalette {
+    background-color: #3F44A4;
+    border-color: #3F44A4;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.knowledgeTab .mComponent .cHeader,
+body.knowledgeTab .genericTable,
+body.knowledgeTab .bSubBlock,
+body.knowledgeTab .bPageBlock{
+    border-top: 3px solid #3F44A4;
+}
+
+/** Enhanced List **/
+body.knowledgeTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #3F44A4;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .knowledgeBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .knowledgeBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .knowledgeBlock .secondaryPalette .pbHeader{
+    border-color: #3F44A4;
+}
+
+.knowledgeMru .mruIcon { background-image: url(/img/knowledge/knowledge16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.knowledgeTab .pageTitleIcon, .individualPalette .knowledgeBlock .pageTitleIcon { background-image: url(/img/knowledge/knowledge32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .knowledgeBlock .relatedListIcon, .allTabTab .knowledgeBlock .relatedListIcon { background-image: url(/img/knowledge/knowledge24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .knowledgeBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .knowledgeBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.knowledgePublishingTab{
+    margin:0 10px;
+}
+body.knowledgePublishingTab .tabNavigation .tab .currentTab,
+body.knowledgePublishingTab #motifCurve,
+body.knowledgePublishingTab #motifCurve #mc_l,
+body.knowledgePublishingTab #motifCurve #mc_r{
+    background-color: #3F44A4;
+}
+body.knowledgePublishingTab  .primaryPalette,
+.individualPalette .knowledgePublishingBlock .primaryPalette {
+    background-color: #3F44A4;
+    border-color: #3F44A4;
+}
+body.knowledgePublishingTab  .secondaryPalette,
+.individualPalette .knowledgePublishingBlock .secondaryPalette {
+    background-color: #3F44A4;
+    border-color: #3F44A4;
+}
+body.knowledgePublishingTab  .tertiaryPalette,
+.individualPalette .knowledgePublishingBlock .tertiaryPalette {
+    background-color: #6B70C6;
+    border-color: #6B70C6;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.knowledgePublishingTab .mComponent .cHeader,
+body.knowledgePublishingTab .genericTable,
+body.knowledgePublishingTab .bSubBlock,
+body.knowledgePublishingTab .bPageBlock{
+    border-top: 3px solid #3F44A4;
+}
+
+/** Enhanced List **/
+body.knowledgePublishingTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #3F44A4;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .knowledgePublishingBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .knowledgePublishingBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .knowledgePublishingBlock .secondaryPalette .pbHeader{
+    border-color: #3F44A4;
+}
+
+.knowledgePublishingMru .mruIcon { background-image: url(/img/knowledge/publishing/knowledgemanagement16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.knowledgePublishingTab .pageTitleIcon, .individualPalette .knowledgePublishingBlock .pageTitleIcon { background-image: url(/img/knowledge/publishing/knowledgemanagement32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .knowledgePublishingBlock .relatedListIcon, .allTabTab .knowledgePublishingBlock .relatedListIcon { background-image: url(/img/knowledge/publishing/knowledgemanagement24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .knowledgePublishingBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .knowledgePublishingBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.entitlementTab{
+    margin:0 10px;
+}
+body.entitlementTab .tabNavigation .tab .currentTab,
+body.entitlementTab #motifCurve,
+body.entitlementTab #motifCurve #mc_l,
+body.entitlementTab #motifCurve #mc_r{
+    background-color: #549647;
+}
+body.entitlementTab  .primaryPalette,
+.individualPalette .entitlementBlock .primaryPalette {
+    background-color: #549647;
+    border-color: #549647;
+}
+body.entitlementTab  .secondaryPalette,
+.individualPalette .entitlementBlock .secondaryPalette {
+    background-color: #549647;
+    border-color: #549647;
+}
+body.entitlementTab  .tertiaryPalette,
+.individualPalette .entitlementBlock .tertiaryPalette {
+    background-color: #6DBA5C;
+    border-color: #6DBA5C;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.entitlementTab .mComponent .cHeader,
+body.entitlementTab .genericTable,
+body.entitlementTab .bSubBlock,
+body.entitlementTab .bPageBlock{
+    border-top: 3px solid #549647;
+}
+
+/** Enhanced List **/
+body.entitlementTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #549647;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .entitlementBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .entitlementBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .entitlementBlock .secondaryPalette .pbHeader{
+    border-color: #549647;
+}
+
+.entitlementMru .mruIcon { background-image: url(/img/icon/entitlements16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.entitlementTab .pageTitleIcon, .individualPalette .entitlementBlock .pageTitleIcon { background-image: url(/img/icon/entitlements32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .entitlementBlock .relatedListIcon, .allTabTab .entitlementBlock .relatedListIcon { background-image: url(/img/icon/entitlements24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .entitlementBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .entitlementBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.serviceContractTab{
+    margin:0 10px;
+}
+body.serviceContractTab .tabNavigation .tab .currentTab,
+body.serviceContractTab #motifCurve,
+body.serviceContractTab #motifCurve #mc_l,
+body.serviceContractTab #motifCurve #mc_r{
+    background-color: #3F7134;
+}
+body.serviceContractTab  .primaryPalette,
+.individualPalette .serviceContractBlock .primaryPalette {
+    background-color: #3F7134;
+    border-color: #3F7134;
+}
+body.serviceContractTab  .secondaryPalette,
+.individualPalette .serviceContractBlock .secondaryPalette {
+    background-color: #3F7134;
+    border-color: #3F7134;
+}
+body.serviceContractTab  .tertiaryPalette,
+.individualPalette .serviceContractBlock .tertiaryPalette {
+    background-color: #609854;
+    border-color: #609854;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.serviceContractTab .mComponent .cHeader,
+body.serviceContractTab .genericTable,
+body.serviceContractTab .bSubBlock,
+body.serviceContractTab .bPageBlock{
+    border-top: 3px solid #3F7134;
+}
+
+/** Enhanced List **/
+body.serviceContractTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #3F7134;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .serviceContractBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .serviceContractBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .serviceContractBlock .secondaryPalette .pbHeader{
+    border-color: #3F7134;
+}
+
+.serviceContractMru .mruIcon { background-image: url(/img/icon/service_contracts16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.serviceContractTab .pageTitleIcon, .individualPalette .serviceContractBlock .pageTitleIcon { background-image: url(/img/icon/service_contracts32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .serviceContractBlock .relatedListIcon, .allTabTab .serviceContractBlock .relatedListIcon { background-image: url(/img/icon/service_contracts24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .serviceContractBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .serviceContractBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.collaborationGroupTab{
+    margin:0 10px;
+}
+body.collaborationGroupTab .tabNavigation .tab .currentTab,
+body.collaborationGroupTab #motifCurve,
+body.collaborationGroupTab #motifCurve #mc_l,
+body.collaborationGroupTab #motifCurve #mc_r{
+    background-color: #2F527E;
+}
+body.collaborationGroupTab  .primaryPalette,
+.individualPalette .collaborationGroupBlock .primaryPalette {
+    background-color: #2F527E;
+    border-color: #2F527E;
+}
+body.collaborationGroupTab  .secondaryPalette,
+.individualPalette .collaborationGroupBlock .secondaryPalette {
+    background-color: #3A6690;
+    border-color: #3A6690;
+}
+body.collaborationGroupTab  .tertiaryPalette,
+.individualPalette .collaborationGroupBlock .tertiaryPalette {
+    background-color: #92aac9;
+    border-color: #92aac9;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.collaborationGroupTab .mComponent .cHeader,
+body.collaborationGroupTab .genericTable,
+body.collaborationGroupTab .bSubBlock,
+body.collaborationGroupTab .bPageBlock{
+    border-top: 3px solid #2F527E;
+}
+
+/** Enhanced List **/
+body.collaborationGroupTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #2F527E;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .collaborationGroupBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .collaborationGroupBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .collaborationGroupBlock .secondaryPalette .pbHeader{
+    border-color: #3A6690;
+}
+
+.collaborationGroupMru .mruIcon { background-image: url(/img/icon/groups16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.collaborationGroupTab .pageTitleIcon, .individualPalette .collaborationGroupBlock .pageTitleIcon { background-image: url(/img/icon/groups32.png);
+	background-position: 0px 0px;width:32px;
+	height:32px; }
+
+.bRelatedList .collaborationGroupBlock .relatedListIcon, .allTabTab .collaborationGroupBlock .relatedListIcon { background-image: url(/img/icon/groups24.png);
+	background-position: 0px 0px;width:24px;
+	height:24px; }
+
+.bRelatedList .collaborationGroupBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .collaborationGroupBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}
+
+/* Motif for Hybrid Skin */
+body.messageTab{
+    margin:0 10px;
+}
+body.messageTab .tabNavigation .tab .currentTab,
+body.messageTab #motifCurve,
+body.messageTab #motifCurve #mc_l,
+body.messageTab #motifCurve #mc_r{
+    background-color: #4F9241;
+}
+body.messageTab  .primaryPalette,
+.individualPalette .messageBlock .primaryPalette {
+    background-color: #4F9241;
+    border-color: #4F9241;
+}
+body.messageTab  .secondaryPalette,
+.individualPalette .messageBlock .secondaryPalette {
+    background-color: #4F9241;
+    border-color: #4F9241;
+}
+body.messageTab  .tertiaryPalette,
+.individualPalette .messageBlock .tertiaryPalette {
+    background-color: #8DAE84;
+    border-color: #8DAE84;
+}
+
+/** Page Blocks, Related Lists and Dashboard **/
+body.messageTab .mComponent .cHeader,
+body.messageTab .genericTable,
+body.messageTab .bSubBlock,
+body.messageTab .bPageBlock{
+    border-top: 3px solid #4F9241;
+}
+
+/** Enhanced List **/
+body.messageTab .listViewport .topNav .linkBar{
+    background-color: #f8f8f8;
+    border:1px solid #eaeaea;
+    border-top: 3px solid #4F9241;
+    border-bottom:0;
+    padding:2px 5px 10px;
+    margin-top: 5px;
+    -moz-border-radius-topleft: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-right-radius: 4px;
+}
+
+/** Hovers **/
+.bodyDiv .mruList.individualPalette .messageBlock .secondaryPalette .pbHeader,
+.bodyDiv .hoverDetail .messageBlock .secondaryPalette .pbHeader,
+.lookupHoverDetail .messageBlock .secondaryPalette .pbHeader{
+    border-color: #4F9241;
+}
+
+.messageMru .mruIcon { background-image: url(/img/icon/home16.png);
+	background-position: 0px 0px;width:16px;
+	height:16px; }
+
+.messageTab .pageTitleIcon, .individualPalette .messageBlock .pageTitleIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -1130px;width:32px;
+	height:32px; }
+
+.bRelatedList .messageBlock .relatedListIcon, .allTabTab .messageBlock .relatedListIcon { background-image: url(/img/sprites/master.png);
+	background-position: 0px -642px;width:24px;
+	height:24px; }
+
+.bRelatedList .messageBlock .relatedListIcon {
+    position: relative;
+    margin-top:-4px;
+    margin-left:5px;
+    display: inline;
+}
+
+.bRelatedList .messageBlock .pbTitle h3 {
+    margin: 3px 0 0 27px;
+}

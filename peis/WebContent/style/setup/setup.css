@@ -1,0 +1,556 @@
+/* -------------- */
+/* version: 19.0*/
+/* skin: Salesforce */
+/* cssSheet: setup */
+/* postfix:  */
+/* spritesEnabled: true */
+
+
+
+/* This sheet contains layout specific to the setup page */
+
+.sysAdminTab .outer td.oLeft,
+.setupTab .outer td.oLeft {
+  width: 230px;
+}
+
+.setupTab .outer .oRight,
+.sysAdminTab .outer .oRight {
+    padding-left: 10px;
+}
+
+.setupTab .bPageTitle .ptBody .content,
+.sysAdminTab .bPageTitle .ptBody .content {
+  padding-left: 10px;
+}
+.setupTab .bPageTitle .pageTitleIcon,
+.sysAdminTab .bPageTitle .pageTitleIcon {
+    display: none;
+}
+
+.bTask .bPageBlock .pbBody {
+  padding:5px 20px 0px 20px;
+}
+
+
+
+
+
+
+.setupTab .bResource .primaryPalette,
+.setupTab .bResource .secondaryPalette {
+  border-color: #930;
+  background-color: #930;
+}
+.setupTab .bResource .bPageBlock .pbBody {
+  padding:5px 20px 0px 20px;
+}
+
+.bPageBlock .setupOverview td, .bPageBlock .setupOverview th,
+.bPageBlock .setupResource td, .bPageBlock .setupResource th {
+  padding:3px 2px 3px 5px;
+  color:#333;
+  width: 50%;
+}
+.bPageBlock .setupOverview,
+.bPageBlock .setupResource {
+  width:100%;
+}
+
+.bPageBlock .setupOverview a,
+.bPageBlock .setupResource a {
+  text-decoration: none;
+}
+
+.bPageBlock .setupOverview a:hover,
+.bPageBlock .setupResource a:hover {
+  text-decoration: underline;
+}
+
+.setupTreeNodeImages {
+  padding: 5px 2px 5px 2px;
+}
+
+.setupTreeNodeImages .image {
+  width: 33%;
+  float: left;
+}
+
+.customizeDisplay {
+  line-height: 1.6em;
+  margin-top: 15px;
+}
+
+.customizeDisplay input {
+  margin-top: 2px;
+  vertical-align: middle;
+}
+
+.customizeDisplay select {
+  margin-top: 2px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.setupTab .bWizardBlock .pbWizardTitle {
+    background-image: url(/img/bgSetupWizard.gif);
+}
+
+/* Related lists in detailelements in wizards in setup.  Yeulch. */
+.setupTab .bWizardBlock .bRelatedList .secondaryPalette .pbHeader {
+    background-color: #747E96;
+    border-color: #747E96;
+}
+
+.setupTab .bWizardBlock .bRelatedList .secondaryPalette .pbBody {
+    border-bottom-color:#747E96;
+}
+
+.setupTab .bWizardBlock .pbBody .bRelatedList .bPageBlock .pbHeader h3 {
+    color: #333;
+}
+.setupTab .bWizardBlock .pbBody .bRelatedList .list td,
+.setupTab .bWizardBlock .pbBody .bRelatedList .list th {
+    border-bottom: 1px solid #E3DEB8;
+}
+.setupTab .bWizardBlock .pbBody .bRelatedList .list .last td,
+.setupTab .bWizardBlock .pbBody .bRelatedList .list .last th {
+    border-bottom: none;
+}
+.setupTab .bWizardBlock .pbBody .bRelatedList .list .headerRow th {
+    border-bottom: 2px solid #CCC;
+}
+/* Permissisons dependencies hints in setup*/
+.permHint .mouseOverInfo{
+    width: 175px;
+    background-color: white;
+    padding: 0;
+}
+
+.permHint .header {
+    background-color: #369;
+    color: #FFF;
+    padding: 2px;
+    border-bottom: 1px solid #000;
+}
+
+.permHint .body {
+    padding: 2px;
+}
+
+/* begin update Reminder Edit page */
+.updateReminderEdit .bestPractice {
+  margin: 10px;
+}
+
+.oppReminderMessage td {
+  vertical-align: middle;
+}
+
+.updateReminderEdit .bestPractice strong{
+  margin-left: -8px;
+}
+
+.updateReminderEdit .closeDates {
+  margin-left: 20px;
+}
+
+.updateReminderEdit .oppReminderMessage textarea {
+  width:375px;
+  height: 100px;
+}
+/* END update Reminder Edit page */
+
+.oldForecastQuotaEdit th {
+  padding-left:1em;
+}
+
+/* BEGIN setup edit pages */
+.selfServiceEdit .bPageBlock .detailList .labelCol,
+.solutionSettingsEdit .bPageBlock .detailList .labelCol,
+.supportSettingEdit .bPageBlock .detailList .labelCol {
+    white-space: nowrap;
+}
+
+.RecalcRuleSetupPage .recalcDiv {
+	margin-left: 17px;
+}
+
+/* layout for the settings page */
+.UserInterfaceUI .oneindent {
+    margin-left: 17px;
+}
+
+.UserInterfaceUI .twoindent {
+    margin-left: 34px;
+}
+
+.UserInterfaceUI .hideblock {
+    display: none;
+}
+
+.UserInterfaceUI .alohaWarningDesc {
+	margin-right: 5px;
+}
+.UserInterfaceUI .alohaIE6Warning {
+	font-weight: bold;
+	color: #C00;
+	margin-top: 10px;
+}
+
+/* layout for the settings page */
+.SearchSettingsPage .indentHidden {
+    margin-left: 17px;
+	display: none;
+}
+
+
+/* END setup edit pages */
+
+.emailTemplateList .pbHeader {
+  text-align:center;
+  padding:2px;
+}
+
+/* Field Accessibility */
+
+.flsLayout h2.flsHeader {
+  margin: 0;
+  padding: 0;
+}
+
+.flsLayout ul.entityList {
+  margin: 0 0 0 1em;
+  padding: 0;
+}
+
+/* need to make the checkmarks line up with the checkboxes */
+.flsEdit .displayedCol,
+.flsEdit .readonlyCol,
+.flsDetail .displayedCol,
+.flsDetail .readonlyCol {
+    text-align: center;
+}
+
+/* Custom tab/web tab button fix */
+
+.customTabWizard .bWizardBlock .bPageBlock .pbBody .pbSubheader {
+  background-color: #CCC;
+}
+
+.customTabWizard .bWizardBlock .bPageBlock .pbBody .pbSubheader h3 {
+  color: #333;
+}
+/* begin userrolefilter.jsp */
+.userRoleFilterList .listElementBottomNav {
+  display: block;
+}
+.userRoleFilterList .rolodex {
+  text-align: center;
+  margin: auto;
+  float:none;
+}
+/* end userrolefilter.jsp */
+
+/* begin styleEditorPage */
+.StyleEditorPage .bPageBlock .detailList .labelCol {
+  vertical-align: middle;
+}
+/* end styleEditorPage */
+
+/* begin webToX */
+.webToCaseSetup .labelCol,
+.webToLeadSettingsEdit .labelCol {
+  white-space: nowrap;
+}
+.webToLeadFaqHeader {
+  padding-left: 4px;
+  font-weight: bold;
+  color: white;
+}
+.webToLeadDisabledAlert {
+    background-color:#FEDDDD;
+    padding:2px 2px 2px 2px;
+}
+
+.webToXHtmlBorder {
+    height:250px;
+    width:700px;
+    margin:0px;
+    border:2px solid #747E96;
+}
+
+.webToXHtmlOutput {
+    width:700px;
+    height:250px;
+    font-family:courier;
+    background-color:#FFFFFF;border: 0px;
+}
+
+/* end webToX */
+
+/*begin custom object wizard stage 2 */
+.customEntityNameField .data2Col {
+   white-space: nowrap;
+}
+/*end custom object wizard stage 2 */
+.selfServiceSetupLaunch .bWizardBlock .pbBody,
+.selfServiceSetupOverview .bWizardBlock .pbBody {
+  background-image: none;
+}
+.selfServiceSetupLaunch .bWizardBlock .pbBottomButtons {
+  float: none;
+}
+
+.formulaOperators .btn {
+    margin-top: 2px;
+    width: 32px;
+    font-size:smaller;
+}
+
+.bulkMassTransfer li {
+    margin-left: -1em;
+}
+
+
+.articleTypeRendererTemplateImg img {
+    height:48px;
+    margin-left:12px;
+    margin-right:12px;
+    width:48px;
+}
+
+.dealViewOptInWizard{
+	background: url(/img/ple/dealviewoptin/wizardGradientBG.png) repeat-x left top;
+	margin-bottom: 20px;
+	color: #333435;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+
+.dealViewOptInWizard-Help{
+	float: right;
+	padding-right: 5px;
+}
+
+.dealViewOptInWizard-Help span{
+	padding-right: 5px;	
+}
+
+.dealViewOptInWizard-Help a{
+	text-decoration: none;
+}
+
+.dealViewOptInWizardStep4Adjust{
+	height: auto;	
+}
+
+.dealViewOptInWizardTitle{
+	font-size: 160%;
+	font-weight: bold;
+}
+.dealViewOptInWizardStep{
+	height: 234px;
+	background-position: left;
+	background-repeat: no-repeat;
+	float: left;
+	color: #4A4A56;
+	position: relative;
+	background-position: 10px 15px;
+}
+
+.dealViewOptInWizardStep-Selected{
+	color:#FFFFFF;
+	font-weight: bold;
+	background-position: 0px 0px;
+	width: 250px;
+}
+
+.dealViewOptInWizardStep-Title{
+	top: 20px;
+	left: 40px;
+	font-size: 120%;
+	font-weight: bold;
+	position: relative; 
+	width: 185px;
+	display: inline-block;
+}
+
+.dealViewOptInWizardStep-Text{
+	left:20px;
+	position:relative;
+	top:50px;
+	width:210px;
+	line-height: 16px;
+}
+
+.dealViewOptInWizardStep-Selected .dealViewOptinHighlight{
+	color: #FFFFFF;
+}
+
+.dealViewOptInWizardStep-Selected dealViewOptInWizardStep-Text a,
+.dealViewOptInWizardStep-Selected dealViewOptInWizardStep-Text span,
+.dealViewOptInWizardStep-Selected dealViewOptInWizardStep-Text div{
+	color: #FFFFFF;
+}
+
+.dealViewOptInWizardStep-Button{
+	left: 15px;
+	position: absolute;
+	bottom: 20px;
+	display: none;
+	max-width: 200px;
+	text-align: left;
+	padding: 1px 5px;
+}
+
+.dealViewOptInWizardStep-LearnMore{
+	left:20px;
+	position:relative;
+	top:120px;
+}
+
+.dealViewOptInWizard-Step1{
+	background-image: url(/img/ple/dealviewoptin/circle1.png);
+}
+.dealViewOptInWizard-Step2{
+	background-image: url(/img/ple/dealviewoptin/circle2.png);
+}
+.dealViewOptInWizard-Step3{
+	background-image: url(/img/ple/dealviewoptin/circle3.png);
+}
+
+.dealViewOptInWizard-Step4{
+	margin-top: 20px;
+	min-height: 200px;
+	max-width: 800px;
+}
+
+.dealViewOptInWizard-Step4 div{
+	margin-bottom: 20px;	
+}
+.dealViewStrongRecommend{
+	font-weight: bold;	
+}
+
+.dealViewOptInWizard a{
+	color: #015ba7;
+}
+.dealViewOptInWizard-Step1-Selected{
+	background-image: url(/img/ple/dealviewoptin/stepsprite.png);
+	background-position: -2px -1px;
+}
+.dealViewOptInWizard-Step2-Selected{
+	background-image: url(/img/ple/dealviewoptin/stepsprite.png);	
+	background-position: -260px -1px;
+}
+.dealViewOptInWizard-Step3-Selected{
+	background-image: url(/img/ple/dealviewoptin/stepsprite.png);
+	background-position: -520px -1px;
+}
+
+
+.dealViewStepDone{
+	font-size: 125%;
+	font-weight: bold;
+	font-style: italic;
+	color: #4A4A56;
+	left: 100px;
+	position: absolute;
+	bottom: 20px;
+}
+
+.progressOverlay{
+	background:#000000 none repeat scroll 0 0;
+	left:0;
+	opacity:0.45;
+	filter: alpha(opacity=40);
+	position:absolute;
+	top:0;
+}
+
+.progressOverlayMask{
+	width:100%;
+	z-index:1000;
+}
+
+.progressMessage{
+	color: black;
+	width: 500px;
+	z-index:1001;
+	margin: auto;
+	position: absolute;
+	background: white;
+	padding: 10px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	
+}
+
+.progressMessageIcon{
+	vertical-align: middle;
+}
+
+.progressMessageText{
+	margin-left: 10px;
+}
+
+.hiddenStep{
+	display: none;	
+}
+
+.learnMoreQuickDemo{
+	float: right;
+}
+
+.completeThumb{
+	background-image: url(/img/ple/dealviewoptin/optinwiz-finalStepImage.png);
+	width: 222px;
+	height: 163px;
+	float: right;
+	margin-left: 40px;
+	margin-right: 5px;
+}
+
+#learnMoreLink{
+	font-weight: bold;
+	margin-bottom: 10px;
+	padding-right: 10px;
+}
+
+#learnMoreLink a{
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.dealViewOptInWizardStep-Selected a{
+	color: #FFFFFF;
+}
+
+#dealViewOptInWizard table{
+	table-layout: fixed;
+	min-width: 740px;
+}
+
+.tabsetWizardImageCell {
+    padding: 5px 5px 0px 10px;
+    text-align: right;
+}
+
+.caseCreationSuggestionChoice {
+	font-weight: bold;
+	padding-left: 50px;
+	color: #333333;
+	font-size: 91%;
+}
+
+.caseCreationSuggestionChannel {
+	padding-left: 90px;
+}
+
+.caseCreationSuggestionChannelChoice {
+	font-weight: bold;
+	padding-left: 110px;
+	color: #333333;
+	font-size: 91%;
+}

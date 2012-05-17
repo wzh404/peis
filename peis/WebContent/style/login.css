@@ -1,0 +1,120 @@
+#da{
+	height:570px;
+	width:1003px;
+	float:left;}
+
+
+#tiao1{
+	height:129px;
+	width:1003px;
+	float:left;}
+#tuti{
+    height:66px;
+	float:left;
+	margin-top:36px;
+	margin-left:10px;	
+}		
+#tubiao{
+	height:36px;
+	width:237px;
+	background-image:url(/img/login.jpg);}
+#tijian{
+	font-family: "黑体";
+	font-size: 36px;
+	font-weight: bold;
+	color:#000000;
+	margin-top:20px;
+	margin-left:2px;
+	letter-spacing: 10px;
+}	
+#ren1{
+	height:129px;
+	width:414px;
+	float:right;
+	margin-right:65px;
+	margin-top:36px;
+	background-image:url(/img/login/ren1_01.jpg);}
+
+
+#tiao2{
+	height:83px;
+	width:1003px;
+	float:left;
+	background-color:#D3EDD0}
+#denglu{
+	height:50px;
+	width:220px;
+	float:left;
+	margin-top:20px;
+	margin-left:10px;
+}
+#denglu2{
+	height:10px;
+	width:17px;
+	float:left;}
+#go{
+	float:left;
+	margin-left:5px;
+	margin-top:54px;}
+#yonghu1{
+	font-family: "新宋体";
+	font-size: 12px;
+	color: #000000;
+	margin-top:7px;
+	}
+#yonghu2{}
+#mima1{
+	font-family: "新宋体";
+	font-size: 12px;
+	color: #000000;
+	margin-top:17px;
+}
+#mima2{
+	margin-top:10px;}
+#ren2{
+	height:96px;
+	width:414px;
+	float:right;
+	margin-right:65px;
+	background-image:url(/img/login/ren2_05.jpg);}
+
+
+#tiao3{
+	height:25px;
+	width:1003px;
+	float:left;
+	background-color:#000000;}
+
+
+#tiao4{
+	height:235px;
+	width:1003px;
+	float:left;
+	background-color:#3CB9B5;}
+#lv{
+	height:200px;
+	width:400px;
+	float:left;
+	margin-left:30px;
+	background-image:url(/img/login/lv_10.jpg);}
+#yuan1{
+	height:67px;
+	width:77px;
+	float:left;
+	margin-top:114px;
+	margin-left:30px;
+	background-image:url(/img/login/yuan_11.jpg);}
+#yuan2{
+	height:67px;
+	width:77px;
+	float:left;
+	margin-top:114px;
+	margin-left:15px;
+	background-image:url(/img/login/yuan2_11.jpg);}
+#yuan3{
+	height:67px;
+	width:77px;
+	float:left;
+	margin-top:114px;
+	margin-left:15px;
+	background-image:url(/img/login/yuan3_11.jpg);}

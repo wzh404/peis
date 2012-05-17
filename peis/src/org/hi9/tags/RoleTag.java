@@ -57,7 +57,7 @@ public class RoleTag extends TagSupport {
 
 
 	private boolean matchs(String pattern, String uri){
-		
+		logger.info("test git");
 		
 		return false;
 	}
